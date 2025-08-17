@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <title>プロセカ卡圖名稱查詢</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Microsoft JhengHei', Arial, sans-serif;
+            background-color: #f5f5f5;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        .loading::after {
+            content: '';
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid #4CAF50;
+            border-radius: 50%;
+            border-top-color: transparent;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .search-section {
+            max-width: 600px;
+            margin: 0 auto 30px;
+        }
+
+        .search-group {
+            margin-bottom: 20px;
+        }
+
+        .search-label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #333;
+            text-align: center;
+        }
+
+        .search-container {
+            position: relative;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 12px 40px 12px 16px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        .search-input:focus {
+            border-color: #4CAF50;
+        }
+
+        .search-icon {
+            position: absolute;
+            right: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #666;
+            pointer-events: none;
+        }
+
+        .dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: white;
+            border: 1px solid #ddd;
+            border-top: none;
+            border-radius: 0 0 8px 8px;
+            max-height: 200px;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+        }
+
+        .dropdown-item {
+            padding: 10px 16px;
+            cursor: pointer;
+            border-bottom: 1px solid #f0f0f0;
+            transition: background-color 0.2s;
+        }
+
+        .dropdown-item:hover {
+            background-color: #f8f9fa;
+        }
+
+        .dropdown-item:last-child {
+            border-bottom: none;
+        }
+
+        .selected-items {
+            margin-top: 15px;
+            text-align: center;
+            min-height: 20px;
+        }
+
+        .tag {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 6px 12px;
+            margin: 4px;
+            border-radius: 20px;
+            font-size: 14px;
+        }
+
+        .tag.character-tag {
+            background-color: #2196F3;
+        }
+
+        .tag .remove {
+            margin-left: 8px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .tag .remove:hover {
+            color: #ffcccc;
+        }
+
+        .clear-button {
+            position: absolute;
+            right: 40px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            color: #999;
+            cursor: pointer;
+            font-size: 18px;
+            padding: 0;
+            width: 20px;
+            height: 20px;
+            display: none;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .clear-button:hover {
+            color: #666;
+        }
+
+        .search-input.has-value {
+            padding-right: 70px;
+        }
+
+        .welcome-section {
+            text-align: center;
+            padding: 20px 20px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .image-list {
+            display: none;
+        }
+
+        .image-item {
+            display: flex;
+            background: white;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+
+        .image-item:hover {
+            transform: translateY(-2px);
+        }
+
+        .image-container {
+            flex: 0 0 250px;
+            height: 150px;
+            overflow: hidden;
+        }
+
+        .image-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .image-placeholder {
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 14px;
+        }
+
+        .content-container {
+            flex: 1;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .image-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .image-description {
+            color: #666;
+            line-height: 1.5;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+            font-size: 16px;
+        }
+
+        .error-message {
+            background-color: #ffebee;
+            color: #c62828;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        @media (max-width: 768px) {
+            .image-item {
+                flex-direction: column;
+            }
+
+            .image-container {
+                flex: none;
+                height: 200px;
+            }
+
+            .welcome-section {
+                max-width: 100%;
+                height: auto;
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>プロセカ卡圖名稱查詢</h1>
+            <p>透過選擇角色和名稱查詢卡圖</p>
+        </div>
+
+        <div class="loading" id="loading">載入卡圖資料中...</div>
+        <div class="error-message" id="errorMessage" style="display: none;"></div>
+
+        <div id="mainContent" style="display: none;">
+            <div class="search-section">
+                <div class="search-group">
+                    <div class="search-container">
+                        <input type="text" 
+                               class="search-input" 
+                               id="characterSearchInput" 
+                               placeholder="輸入或選擇角色..."
+                               autocomplete="off">
+                        <span class="search-icon">👤</span>
+                        <div class="dropdown" id="characterDropdown"></div>
+                    </div>
+                    <div class="selected-items" id="selectedCharacters"></div>
+                </div>
+
+                <div class="search-group">
+                    <div class="search-container">
+                        <input type="text" 
+                            class="search-input" 
+                            id="tagSearchInput" 
+                            placeholder="輸入或選擇名稱..."
+                            autocomplete="off">
+                        <button class="clear-button" id="clearButton" title="清除選擇">&times;</button>
+                        <span class="search-icon">🔍</span>
+                        <div class="dropdown" id="tagDropdown"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="welcome-section" id="welcomeSection">
+                <img src="images/how-to-use.png" alt="使用說明" style="margin: 0 auto;"> 
+            </div>
+
+            <div class="image-list" id="imageList"></div>
+            <div class="no-results" id="noResults" style="display: none;">
+                <p>沒有找到符合條件的卡圖</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let imageData = [];
+        let allCharacters = [];
+        let allTags = [];
+        let selectedCharacters = [];
+        let selectedTag = '';
+        let filteredImages = [];
+
+        const loading = document.getElementById('loading');
+        const errorMessage = document.getElementById('errorMessage');
+        const mainContent = document.getElementById('mainContent');
+        
+        const characterSearchInput = document.getElementById('characterSearchInput');
+        const characterDropdown = document.getElementById('characterDropdown');
+        const selectedCharactersContainer = document.getElementById('selectedCharacters');
+        
+        const tagSearchInput = document.getElementById('tagSearchInput');
+        const clearButton = document.getElementById('clearButton');
+        const tagDropdown = document.getElementById('tagDropdown');
+        
+        const welcomeSection = document.getElementById('welcomeSection');
+        const imageList = document.getElementById('imageList');
+        const noResults = document.getElementById('noResults');
+
+        async function loadImageData() {
+            try {
+                const response = await fetch('imageData.json');
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                imageData = await response.json();
+                
+                if (!Array.isArray(imageData) || imageData.length === 0) {
+                    throw new Error('圖片資料格式錯誤或為空');
+                }
+
+                allCharacters = [...new Set(imageData.map(img => img.character))];
+                allTags = [...new Set(imageData.flatMap(img => img.tags))].sort();
+                
+                loading.style.display = 'none';
+                mainContent.style.display = 'block';
+                
+                init();
+                
+            } catch (error) {
+                console.error('載入圖片資料失敗:', error);
+                loading.style.display = 'none';
+                errorMessage.textContent = `載入圖片資料失敗: ${error.message}。請確認 imageData.json 檔案存在且格式正確。`;
+                errorMessage.style.display = 'block';
+            }
+        }
+
+        function init() {
+            setupEventListeners();
+            updateCharactersDisplay();
+            updateImageDisplay();
+        }
+
+        function setupEventListeners() {
+            characterSearchInput.addEventListener('focus', showCharacterDropdown);
+            characterSearchInput.addEventListener('input', filterCharacterDropdown);
+            characterSearchInput.addEventListener('keydown', handleCharacterKeydown);
+            
+            tagSearchInput.addEventListener('focus', showTagDropdown);
+            tagSearchInput.addEventListener('input', handleTagInput);
+            tagSearchInput.addEventListener('keydown', handleTagKeydown);
+            clearButton.addEventListener('click', clearTagSelection);
+            
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('.search-container')) {
+                    hideDropdowns();
+                }
+            });
+        }
+
+        function showCharacterDropdown() {
+            populateCharacterDropdown(allCharacters);
+            characterDropdown.style.display = 'block';
+        }
+
+        function populateCharacterDropdown(characters) {
+            characterDropdown.innerHTML = '';
+            characters.forEach(character => {
+                if (!selectedCharacters.includes(character)) {
+                    const item = document.createElement('div');
+                    item.className = 'dropdown-item';
+                    item.textContent = character;
+                    item.addEventListener('click', () => addCharacter(character));
+                    characterDropdown.appendChild(item);
+                }
+            });
+        }
+
+        function filterCharacterDropdown() {
+            const query = characterSearchInput.value.toLowerCase();
+            const filteredCharacters = allCharacters.filter(character => 
+                character.toLowerCase().includes(query) && !selectedCharacters.includes(character)
+            );
+            populateCharacterDropdown(filteredCharacters);
+        }
+
+        function handleCharacterKeydown(e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                const query = characterSearchInput.value.trim();
+                if (query && allCharacters.includes(query) && !selectedCharacters.includes(query)) {
+                    addCharacter(query);
+                }
+            }
+        }
+
+        function addCharacter(character) {
+            if (!selectedCharacters.includes(character)) {
+                selectedCharacters.push(character);
+                characterSearchInput.value = '';
+                hideDropdowns();
+                updateCharactersDisplay();
+                updateImageDisplay();
+            }
+        }
+
+        function removeCharacter(character) {
+            selectedCharacters = selectedCharacters.filter(c => c !== character);
+            updateCharactersDisplay();
+            updateImageDisplay();
+        }
+
+        function updateCharactersDisplay() {
+            selectedCharactersContainer.innerHTML = '';
+            selectedCharacters.forEach(character => {
+                const tagElement = document.createElement('span');
+                tagElement.className = 'tag character-tag';
+                tagElement.innerHTML = `${character} <span class="remove" onclick="removeCharacter('${character}')">&times;</span>`;
+                selectedCharactersContainer.appendChild(tagElement);
+            });
+        }
+
+        function showTagDropdown() {
+            const currentValue = tagSearchInput.value.toLowerCase();
+            const filteredTags = allTags.filter(tag => 
+                tag.toLowerCase().includes(currentValue)
+            );
+            populateTagDropdown(filteredTags);
+            tagDropdown.style.display = 'block';
+        }
+
+        function populateTagDropdown(tags) {
+            tagDropdown.innerHTML = '';
+            tags.forEach(tag => {
+                const item = document.createElement('div');
+                item.className = 'dropdown-item';
+                item.textContent = tag;
+                item.addEventListener('click', () => selectTag(tag));
+                tagDropdown.appendChild(item);
+            });
+        }
+            
+        function handleTagInput() {
+            const value = tagSearchInput.value;
+            updateClearButton();
+            
+            if (value.trim() === '') {
+                clearTagSelection(false);
+                return;
+            }
+            
+            const filteredTags = allTags.filter(tag => 
+                tag.toLowerCase().includes(value.toLowerCase())
+            );
+            populateTagDropdown(filteredTags);
+            
+            const exactMatch = allTags.find(tag => tag.toLowerCase() === value.toLowerCase());
+            if (exactMatch) {
+                selectedTag = exactMatch;
+                updateImageDisplay();
+            } else {
+                selectedTag = '';
+                updateImageDisplay();
+            }
+        }
+
+        function updateClearButton() {
+            if (tagSearchInput.value.trim() !== '') {
+                clearButton.style.display = 'flex';
+                tagSearchInput.classList.add('has-value');
+            } else {
+                clearButton.style.display = 'none';
+                tagSearchInput.classList.remove('has-value');
+            }
+        }
+
+        function handleTagKeydown(e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                const value = tagSearchInput.value.trim();
+                const exactMatch = allTags.find(tag => tag.toLowerCase() === value.toLowerCase());
+                if (exactMatch) {
+                    selectTag(exactMatch);
+                }
+            } else if (e.key === 'Escape') {
+                hideDropdowns();
+            }
+        }
+
+        function selectTag(tag) {
+            selectedTag = tag;
+            tagSearchInput.value = tag;
+            updateClearButton();
+            hideDropdowns();
+            updateImageDisplay();
+        }
+
+        function clearTagSelection(clearInput = true) {
+            selectedTag = '';
+            if (clearInput) {
+                tagSearchInput.value = '';
+            }
+            updateClearButton();
+            hideDropdowns();
+            updateImageDisplay();
+        }
+
+        function hideDropdowns() {
+            characterDropdown.style.display = 'none';
+            tagDropdown.style.display = 'none';
+        }
+
+        function updateImageDisplay() {
+            if (selectedCharacters.length === 0 && selectedTag === '') {
+                welcomeSection.style.display = 'block';
+                imageList.style.display = 'none';
+                noResults.style.display = 'none';
+            } else {
+                filteredImages = imageData.filter(img => {
+                    const characterMatch = selectedCharacters.length === 0 || 
+                                         selectedCharacters.includes(img.character);
+
+                    const tagMatch = selectedTag === '' || img.tags.includes(selectedTag);
+                    
+                    return characterMatch && tagMatch;
+                });
+
+                welcomeSection.style.display = 'none';
+                
+                if (filteredImages.length > 0) {
+                    displayImages();
+                    imageList.style.display = 'block';
+                    noResults.style.display = 'none';
+                } else {
+                    imageList.style.display = 'none';
+                    noResults.style.display = 'block';
+                }
+            }
+        }
+
+        function displayImages() {
+            imageList.innerHTML = '';
+            filteredImages.forEach(img => {
+                const imageItem = document.createElement('div');
+                imageItem.className = 'image-item';
+                imageItem.innerHTML = `
+                    <div class="image-container">
+                        <img src="${img.src}" alt="${img.title}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                        <div class="image-placeholder" style="display: none;">無法載入圖片<br>${img.title}</div>
+                    </div>
+                    <div class="content-container">
+                        <div class="image-title">${img.character} / ${img.title}</div>
+                        <div class="image-description">${img.description}</div>
+                    </div>
+                `;
+                imageList.appendChild(imageItem);
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', loadImageData);
+
+        // 全域函數供 HTML 內聯事件使用
+        window.removeCharacter = removeCharacter;
+    </script>
+</body>
+</html>
