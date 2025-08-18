@@ -213,6 +213,27 @@
             transform: translateY(-2px);
         }
 
+        .main-tag-notice {
+            background: linear-gradient(90deg, #ff9a56, #ff6b35);
+            color: white;
+            padding: 8px 16px;
+            text-align: center;
+            font-size: 14px;
+            font-weight: bold;
+            border-radius: 8px 8px 0 0;
+            margin-bottom: 0;
+            position: relative;
+        }
+
+        .main-tag-notice::before {
+            content: '★';
+            margin-right: 6px;
+        }
+
+        .image-item.has-main-tag {
+            border-radius: 0 0 8px 8px;
+        }
+
         .image-container {
             flex: 0 0 250px;
             height: 150px;
@@ -369,6 +390,35 @@
         const welcomeSection = document.getElementById('welcomeSection');
         const imageList = document.getElementById('imageList');
         const noResults = document.getElementById('noResults');
+
+        const chara = {
+            "星乃一歌": "一歌",
+            "天馬咲希": "咲希",
+            "望月穂波": "穂波",
+            "日野森志歩": "志歩",
+            "花里みのり": "みのり",
+            "桐谷遥": "遥",
+            "桃井愛莉": "愛莉",
+            "日野森雫": "雫",
+            "小豆澤こはね": "こはね",
+            "白石杏": "杏",
+            "東雲彰人": "彰人",
+            "青柳冬弥": "冬弥",
+            "天馬司": "司",
+            "鳳えむ": "えむ",
+            "草薙寧々": "寧々",
+            "神代類": "類",
+            "宵崎奏": "奏",
+            "朝比奈まふゆ": "まふゆ",
+            "東雲絵名": "絵名",
+            "暁山瑞希": "瑞希",
+            "初音ミク": "ミク",
+            "鏡音リン": "リン",
+            "鏡音レン": "レン",
+            "巡音ルカ": "ルカ",
+            "MEIKO": "MEIKO",
+            "KAITO": "KAITO",
+        }
 
         async function loadImageData() {
             try {
@@ -606,8 +656,19 @@
         function displayImages() {
             imageList.innerHTML = '';
             filteredImages.forEach(img => {
+
+                const isMainTag = selectedTag && img.main && Array.isArray(img.main) && img.main.includes(selectedTag);
+                const imageWrapper = document.createElement('div');
+
+                if (isMainTag) {
+                    const mainTagNotice = document.createElement('div');
+                    mainTagNotice.className = 'main-tag-notice';
+                    mainTagNotice.textContent = `「${selectedTag}${chara[img.character]}」主要是指此張卡圖`;
+                    imageWrapper.appendChild(mainTagNotice);
+                }
+
                 const imageItem = document.createElement('div');
-                imageItem.className = 'image-item';
+                imageItem.className = isMainTag ? 'image-item has-main-tag' : 'image-item';
                 imageItem.innerHTML = `
                     <div class="image-container">
                         <img src="${img.src}" alt="${img.title}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
@@ -618,13 +679,12 @@
                         <div class="image-description">${img.description}</div>
                     </div>
                 `;
-                imageList.appendChild(imageItem);
+                imageWrapper.appendChild(imageItem);
+                imageList.appendChild(imageWrapper);
             });
         }
 
         document.addEventListener('DOMContentLoaded', loadImageData);
-
-        // 全域函數供 HTML 內聯事件使用
         window.removeCharacter = removeCharacter;
     </script>
 </body>
