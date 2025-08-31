@@ -24958,5 +24958,143 @@
       "四代生日",
       "2025生日"
     ]
+  },
+  {
+    "src": "images/tsukasa/308_177_01_013_n.webp",
+    "character": "天馬司",
+    "title": "司六箱 - Deep Dark For Light（特訓前）",
+    "description": "#地獄 #黑幫",
+    "main": [],
+    "tags": [
+      "司六箱",
+      "地獄",
+      "黑幫",
+      "天國地獄",
+      "天堂地獄"
+    ]
+  },
+  {
+    "src": "images/tsukasa/308_177_01_013_t.webp",
+    "character": "天馬司",
+    "title": "司六箱 - Deep Dark For Light（特訓後）",
+    "description": "#地獄 #黑幫",
+    "main": [],
+    "tags": [
+      "司六箱",
+      "地獄",
+      "黑幫",
+      "天國地獄",
+      "天堂地獄"
+    ]
+  },
+  {
+    "src": "images/emu/308_177_02_014_n.webp",
+    "character": "鳳えむ",
+    "title": "司六箱 - Deep Dark For Light（特訓前）",
+    "description": "#地獄 #黑幫",
+    "main": [],
+    "tags": [
+      "司六箱",
+      "地獄",
+      "黑幫",
+      "天國地獄",
+      "天堂地獄"
+    ]
+  },
+  {
+    "src": "images/emu/308_177_02_014_t.webp",
+    "character": "鳳えむ",
+    "title": "司六箱 - Deep Dark For Light（特訓後）",
+    "description": "#地獄 #黑幫",
+    "main": [],
+    "tags": [
+      "司六箱",
+      "地獄",
+      "黑幫",
+      "天國地獄",
+      "天堂地獄"
+    ]
+  },
+  {
+    "src": "images/rui/308_177_03_016_n.webp",
+    "character": "神代類",
+    "title": "司六箱 - Deep Dark For Light（特訓前）",
+    "description": "#地獄 #黑幫",
+    "main": [],
+    "tags": [
+      "司六箱",
+      "地獄",
+      "黑幫",
+      "天國地獄",
+      "天堂地獄"
+    ]
+  },
+  {
+    "src": "images/rui/308_177_03_016_t.webp",
+    "character": "神代類",
+    "title": "司六箱 - Deep Dark For Light（特訓後）",
+    "description": "#地獄 #黑幫",
+    "main": [],
+    "tags": [
+      "司六箱",
+      "地獄",
+      "黑幫",
+      "天國地獄",
+      "天堂地獄"
+    ]
+  },
+  {
+    "src": "images/miku/308_177_04_021_n.webp",
+    "character": "初音ミク",
+    "title": "司六箱 - Deep Dark For Light（特訓前）",
+    "description": "#地獄 #黑幫",
+    "main": [],
+    "tags": [
+      "司六箱",
+      "地獄",
+      "黑幫",
+      "天國地獄",
+      "天堂地獄"
+    ]
+  },
+  {
+    "src": "images/miku/308_177_04_021_t.webp",
+    "character": "初音ミク",
+    "title": "司六箱 - Deep Dark For Light（特訓後）",
+    "description": "#地獄 #黑幫",
+    "main": [],
+    "tags": [
+      "司六箱",
+      "地獄",
+      "黑幫",
+      "天國地獄",
+      "天堂地獄"
+    ]
+  },
+  {
+    "src": "images/nene/308_177_05_015_2.webp",
+    "character": "草薙寧々",
+    "title": "司六箱 - Deep Dark For Light",
+    "description": "#地獄 #黑幫",
+    "main": [],
+    "tags": [
+      "司六箱",
+      "地獄",
+      "黑幫",
+      "天國地獄",
+      "天堂地獄"
+    ]
+  },
+  {
+    "src": "images/miku/309_bd5_01_021_2.webp",
+    "character": "初音ミク",
+    "title": "Happy Birthday!!2025",
+    "description": "#生日 #2025生日",
+    "main": [],
+    "tags": [
+      "生日",
+      "四代生日",
+      "2025生日"
+    ]
   }
 ]
