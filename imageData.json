@@ -21470,6 +21470,7 @@
     "tags": [
       "類三混",
       "聖誕",
+      "冬日",
       "泡雪",
       "幼年"
     ]
@@ -21483,6 +21484,7 @@
     "tags": [
       "類三混",
       "聖誕",
+      "冬日",
       "泡雪"
     ]
   },
@@ -21495,6 +21497,7 @@
     "tags": [
       "類三混",
       "聖誕",
+      "冬日",
       "泡雪"
     ]
   },
@@ -21507,6 +21510,7 @@
     "tags": [
       "類三混",
       "聖誕",
+      "冬日",
       "泡雪"
     ]
   },
@@ -21519,6 +21523,7 @@
     "tags": [
       "類三混",
       "聖誕",
+      "冬日",
       "泡雪"
     ]
   },
@@ -21531,6 +21536,7 @@
     "tags": [
       "類三混",
       "聖誕",
+      "冬日",
       "泡雪"
     ]
   },
@@ -21543,6 +21549,7 @@
     "tags": [
       "類三混",
       "聖誕",
+      "冬日",
       "泡雪"
     ]
   },
@@ -21555,6 +21562,7 @@
     "tags": [
       "類三混",
       "聖誕",
+      "冬日",
       "泡雪"
     ]
   },
@@ -21567,6 +21575,7 @@
     "tags": [
       "類三混",
       "聖誕",
+      "冬日",
       "泡雪"
     ]
   },
@@ -25088,6 +25097,150 @@
   {
     "src": "images/miku/309_bd5_01_021_2.webp",
     "character": "初音ミク",
+    "title": "Happy Birthday!!2025",
+    "description": "#生日 #2025生日",
+    "main": [],
+    "tags": [
+      "生日",
+      "四代生日",
+      "2025生日"
+    ]
+  },
+  {
+    "src": "images/miku/310_178_01_021_n.webp",
+    "character": "初音ミク",
+    "title": "World Link - Link the Beats!（特訓前）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/miku/310_178_01_021_t.webp",
+    "character": "初音ミク",
+    "title": "World Link - Link the Beats!（特訓後）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/rin/310_178_02_022_n.webp",
+    "character": "鏡音リン",
+    "title": "World Link - Link the Beats!（特訓前）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/rin/310_178_02_022_t.webp",
+    "character": "鏡音リン",
+    "title": "World Link - Link the Beats!（特訓後）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/len/310_178_03_023_n.webp",
+    "character": "鏡音レン",
+    "title": "World Link - Link the Beats!（特訓前）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/len/310_178_03_023_t.webp",
+    "character": "鏡音レン",
+    "title": "World Link - Link the Beats!（特訓後）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/luka/310_178_04_024_n.webp",
+    "character": "巡音ルカ",
+    "title": "World Link - Link the Beats!（特訓前）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/luka/310_178_04_024_t.webp",
+    "character": "巡音ルカ",
+    "title": "World Link - Link the Beats!（特訓後）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/meiko/310_178_05_025_n.webp",
+    "character": "MEIKO",
+    "title": "World Link - Link the Beats!（特訓前）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/meiko/310_178_05_025_t.webp",
+    "character": "MEIKO",
+    "title": "World Link - Link the Beats!（特訓後）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/kaito/310_178_06_026_n.webp",
+    "character": "KAITO",
+    "title": "World Link - Link the Beats!（特訓前）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/kaito/310_178_06_026_t.webp",
+    "character": "KAITO",
+    "title": "World Link - Link the Beats!（特訓後）",
+    "description": "#WL2",
+    "main": [],
+    "tags": [
+      "WL",
+      "WL2"
+    ]
+  },
+  {
+    "src": "images/emu/311_bd5_01_014_2.webp",
+    "character": "鳳えむ",
     "title": "Happy Birthday!!2025",
     "description": "#生日 #2025生日",
     "main": [],
