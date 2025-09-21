@@ -25249,5 +25249,187 @@
       "四代生日",
       "2025生日"
     ]
+  },
+  {
+    "src": "images/miku/312_tmk_01_021_n.webp",
+    "character": "初音ミク",
+    "title": "塔麻歌子合作 - 導きの歌（特訓前）",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/miku/312_tmk_01_021_t.webp",
+    "character": "初音ミク",
+    "title": "塔麻歌子合作 - 導きの歌（特訓後）",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/shiho/312_tmk_02_004_n.webp",
+    "character": "日野森志歩",
+    "title": "塔麻歌子合作 - 星々を見上げて（特訓前）",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/shiho/312_tmk_02_004_t.webp",
+    "character": "日野森志歩",
+    "title": "塔麻歌子合作 - 星々を見上げて（特訓後）",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/kohane/312_tmk_03_009_n.webp",
+    "character": "小豆澤こはね",
+    "title": "塔麻歌子合作 - あま～いひと時（特訓前）",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/kohane/312_tmk_03_009_t.webp",
+    "character": "小豆澤こはね",
+    "title": "塔麻歌子合作 - あま～いひと時（特訓後）",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/nene/312_tmk_04_015_n.webp",
+    "character": "草薙寧々",
+    "title": "塔麻歌子合作 - 大特訓大会の成果！（特訓前）",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/nene/312_tmk_04_015_t.webp",
+    "character": "草薙寧々",
+    "title": "塔麻歌子合作 - 大特訓大会の成果！（特訓後）",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/meiko/312_tmk_05_025_2.webp",
+    "character": "MEIKO",
+    "title": "塔麻歌子合作 - feat.いちごっち",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/honami/312_tmk_06_003_2.webp",
+    "character": "望月穂波",
+    "title": "塔麻歌子合作 - feat.りんごっち",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/shizuku/312_tmk_07_008_2.webp",
+    "character": "日野森雫",
+    "title": "塔麻歌子合作 - feat.ふらわっち",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/an/312_tmk_08_010_2.webp",
+    "character": "白石杏",
+    "title": "塔麻歌子合作 - feat.メロディっち",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/rui/312_tmk_09_016_2.webp",
+    "character": "神代類",
+    "title": "塔麻歌子合作 - feat.ござるっち",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
+  },
+  {
+    "src": "images/mizuki/312_tmk_10_020_2.webp",
+    "character": "暁山瑞希",
+    "title": "塔麻歌子合作 - feat.ラブリっち",
+    "description": "#Tamagotchi #塔麻歌子",
+    "main": [],
+    "tags": [
+      "Tamagotchi",
+      "塔麻歌子",
+      "塔麻可吉",
+      "電子雞"
+    ]
   }
 ]
