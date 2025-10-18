@@ -25449,5 +25449,257 @@
       "塔麻可吉",
       "電子雞"
     ]
+  },
+  {
+    "src": "images/minori/313_bfe_01_005_n.webp",
+    "character": "花里みのり",
+    "title": "Bloom Festival（特訓前）",
+    "description": "#BFes",
+    "main": [],
+    "tags": [
+      "BFes",
+    ]
+  },
+  {
+    "src": "images/minori/313_bfe_01_005_t.webp",
+    "character": "花里みのり",
+    "title": "Bloom Festival（特訓後）",
+    "description": "#BFes",
+    "main": [],
+    "tags": [
+      "BFes",
+    ]
+  },
+  {
+    "src": "images/akito/313_bfe_02_011_n.webp",
+    "character": "東雲彰人",
+    "title": "Bloom Festival（特訓前）",
+    "description": "#BFes",
+    "main": [],
+    "tags": [
+      "BFes",
+    ]
+  },
+  {
+    "src": "images/akito/313_bfe_02_011_t.webp",
+    "character": "東雲彰人",
+    "title": "Bloom Festival（特訓後）",
+    "description": "#BFes",
+    "main": [],
+    "tags": [
+      "BFes",
+    ]
+  },
+  {
+    "src": "images/an/314_180_01_010_n.webp",
+    "character": "白石杏",
+    "title": "Our Golden Days - この瞬間を焼き付けて（特訓前）",
+    "description": "#五週年",
+    "main": [],
+    "tags": [
+      "五週年",
+    ]
+  },
+  {
+    "src": "images/an/314_180_01_010_t.webp",
+    "character": "白石杏",
+    "title": "Our Golden Days - この瞬間を焼き付けて（特訓後）",
+    "description": "#五週年",
+    "main": [],
+    "tags": [
+      "五週年",
+    ]
+  },
+  {
+    "src": "images/saki/314_180_02_002_n.webp",
+    "character": "天馬咲希",
+    "title": "Our Golden Days - ラッキー・アイス！（特訓前）",
+    "description": "#五週年",
+    "main": [],
+    "tags": [
+      "五週年",
+    ]
+  },
+  {
+    "src": "images/saki/314_180_02_002_t.webp",
+    "character": "天馬咲希",
+    "title": "Our Golden Days - ラッキー・アイス！（特訓後）",
+    "description": "#五週年",
+    "main": [],
+    "tags": [
+      "五週年",
+    ]
+  },
+  {
+    "src": "images/haruka/314_180_03_006_n.webp",
+    "character": "桐谷遥",
+    "title": "Our Golden Days - ステージ袖の熱情（特訓前）",
+    "description": "#五週年",
+    "main": [],
+    "tags": [
+      "五週年",
+    ]
+  },
+  {
+    "src": "images/haruka/314_180_03_006_t.webp",
+    "character": "桐谷遥",
+    "title": "Our Golden Days - ステージ袖の熱情（特訓後）",
+    "description": "#五週年",
+    "main": [],
+    "tags": [
+      "五週年",
+    ]
+  },
+  {
+    "src": "images/mizuki/314_180_04_020_n.webp",
+    "character": "暁山瑞希",
+    "title": "Our Golden Days - とびきりの笑顔を中継！（特訓前）",
+    "description": "#五週年",
+    "main": [],
+    "tags": [
+      "五週年",
+    ]
+  },
+  {
+    "src": "images/mizuki/314_180_04_020_t.webp",
+    "character": "暁山瑞希",
+    "title": "Our Golden Days - とびきりの笑顔を中継！（特訓後）",
+    "description": "#五週年",
+    "main": [],
+    "tags": [
+      "五週年",
+    ]
+  },
+  {
+    "src": "images/emu/314_180_05_014_n.webp",
+    "character": "鳳えむ",
+    "title": "Our Golden Days - にこにこスタンプラリー（特訓前）",
+    "description": "#五週年",
+    "main": [],
+    "tags": [
+      "五週年",
+    ]
+  },
+  {
+    "src": "images/emu/314_180_05_014_t.webp",
+    "character": "鳳えむ",
+    "title": "Our Golden Days - にこにこスタンプラリー（特訓後）",
+    "description": "#五週年",
+    "main": [],
+    "tags": [
+      "五週年",
+    ]
+  },
+  {
+    "src": "images/miku/314_180_06_021_2.webp",
+    "character": "初音ミク",
+    "title": "Our Golden Days - 時には穏やかな時間を",
+    "description": "#五週年",
+    "main": [],
+    "tags": [
+      "五週年",
+    ]
+  },
+  {
+    "src": "images/haruka/315_bd5_01_006_2.webp",
+    "character": "桐谷遥",
+    "title": "Happy Birthday!!2025",
+    "description": "#生日 #2025生日",
+    "main": [],
+    "tags": [
+      "生日",
+      "五代生日",
+      "2025生日"
+    ]
+  },
+  {
+    "src": "images/ichika/316_181_01_001_n.webp",
+    "character": "星乃一歌",
+    "title": "君と繋ぐHeart Beat - 衝撃の朝（特訓前）",
+    "description": "#遊行",
+    "main": [],
+    "tags": [
+      "遊行"
+    ]
+  },
+  {
+    "src": "images/ichika/316_181_01_001_t.webp",
+    "character": "星乃一歌",
+    "title": "君と繋ぐHeart Beat - 衝撃の朝（特訓後）",
+    "description": "#遊行",
+    "main": [],
+    "tags": [
+      "遊行"
+    ]
+  },
+  {
+    "src": "images/honami/316_181_02_003_n.webp",
+    "character": "望月穂波",
+    "title": "君と繋ぐHeart Beat - お味はいかが？（特訓前）",
+    "description": "#遊行",
+    "main": [],
+    "tags": [
+      "遊行"
+    ]
+  },
+  {
+    "src": "images/honami/316_181_02_003_t.webp",
+    "character": "望月穂波",
+    "title": "君と繋ぐHeart Beat - お味はいかが？（特訓後）",
+    "description": "#遊行",
+    "main": [],
+    "tags": [
+      "遊行"
+    ]
+  },
+  {
+    "src": "images/shiho/316_181_03_004_n.webp",
+    "character": "日野森志歩",
+    "title": "君と繋ぐHeart Beat - 日々のルーティーン（特訓前）",
+    "description": "#遊行",
+    "main": [],
+    "tags": [
+      "遊行"
+    ]
+  },
+  {
+    "src": "images/shiho/316_181_03_004_t.webp",
+    "character": "日野森志歩",
+    "title": "君と繋ぐHeart Beat - 日々のルーティーン（特訓後）",
+    "description": "#遊行",
+    "main": [],
+    "tags": [
+      "遊行"
+    ]
+  },
+  {
+    "src": "images/meiko/316_181_04_025_n.webp",
+    "character": "MEIKO",
+    "title": "君と繋ぐHeart Beat - 溢れる想いを感じて（特訓前）",
+    "description": "#遊行",
+    "main": [],
+    "tags": [
+      "遊行"
+    ]
+  },
+  {
+    "src": "images/meiko/316_181_04_025_t.webp",
+    "character": "MEIKO",
+    "title": "君と繋ぐHeart Beat - 溢れる想いを感じて（特訓後）",
+    "description": "#遊行",
+    "main": [],
+    "tags": [
+      "遊行"
+    ]
+  },
+  {
+    "src": "images/saki/316_181_05_002_2.webp",
+    "character": "天馬咲希",
+    "title": "君と繋ぐHeart Beat - 想いをキャッチするために！",
+    "description": "#遊行",
+    "main": [],
+    "tags": [
+      "遊行"
+    ]
   }
 ]
