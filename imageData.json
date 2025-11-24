@@ -18839,6 +18839,7 @@
       "笑夢五箱",
       "外星",
       "劍道",
+	  "宇宙",
       "外星人",
       "宇宙人",
       "外星歌劇"
@@ -18855,6 +18856,7 @@
       "笑夢五箱",
       "外星",
       "劍道",
+	  "宇宙",
       "外星人",
       "宇宙人",
       "外星歌劇"
@@ -18871,6 +18873,7 @@
       "笑夢五箱",
       "外星",
       "劍道",
+	  "宇宙",
       "外星人",
       "宇宙人",
       "外星歌劇"
@@ -18887,6 +18890,7 @@
       "笑夢五箱",
       "外星",
       "劍道",
+	  "宇宙",
       "外星人",
       "宇宙人",
       "外星歌劇"
@@ -18903,6 +18907,7 @@
       "笑夢五箱",
       "外星",
       "劍道",
+	  "宇宙",
       "外星人",
       "宇宙人",
       "外星歌劇"
@@ -18919,6 +18924,7 @@
       "笑夢五箱",
       "外星",
       "劍道",
+	  "宇宙",
       "外星人",
       "宇宙人",
       "外星歌劇"
@@ -18935,6 +18941,7 @@
       "笑夢五箱",
       "外星",
       "劍道",
+	  "宇宙",
       "外星人",
       "宇宙人",
       "外星歌劇"
@@ -18951,6 +18958,7 @@
       "笑夢五箱",
       "外星",
       "劍道",
+	  "宇宙",
       "外星人",
       "宇宙人",
       "外星歌劇"
@@ -18967,6 +18975,7 @@
       "笑夢五箱",
       "外星",
       "劍道",
+	  "宇宙",
       "外星人",
       "宇宙人",
       "外星歌劇"
@@ -26143,6 +26152,114 @@
       "征服",
       "超克",
 	  "金鳥"
+    ]
+  },
+  {
+    "src": "images/akito/323_185_01_011_n.webp",
+    "character": "東雲彰人",
+    "title": "彰人六箱 - Overcome one's limits（特訓前）",
+    "description": "#Fighter #西裝",
+    "main": [],
+    "tags": [
+      "彰人六箱",
+      "Fighter",
+      "西裝"
+    ]
+  },
+  {
+    "src": "images/akito/323_185_01_011_t.webp",
+    "character": "東雲彰人",
+    "title": "彰人六箱 - Overcome one's limits（特訓後）",
+    "description": "#Fighter #西裝",
+    "main": [],
+    "tags": [
+      "彰人六箱",
+      "Fighter",
+      "西裝"
+    ]
+  },
+  {
+    "src": "images/kohane/323_185_02_009_n.webp",
+    "character": "小豆澤こはね",
+    "title": "彰人六箱 - Overcome one's limits（特訓前）",
+    "description": "#Fighter #西裝",
+    "main": [],
+    "tags": [
+      "彰人六箱",
+      "Fighter",
+      "西裝"
+    ]
+  },
+  {
+    "src": "images/kohane/323_185_02_009_t.webp",
+    "character": "小豆澤こはね",
+    "title": "彰人六箱 - Overcome one's limits（特訓後）",
+    "description": "#Fighter #西裝",
+    "main": [],
+    "tags": [
+      "彰人六箱",
+      "Fighter",
+      "西裝"
+    ]
+  },
+  {
+    "src": "images/an/323_185_03_010_n.webp",
+    "character": "白石杏",
+    "title": "彰人六箱 - Overcome one's limits（特訓前）",
+    "description": "#Fighter #西裝",
+    "main": [],
+    "tags": [
+      "彰人六箱",
+      "Fighter",
+      "西裝"
+    ]
+  },
+  {
+    "src": "images/an/323_185_03_010_t.webp",
+    "character": "白石杏",
+    "title": "彰人六箱 - Overcome one's limits（特訓後）",
+    "description": "#Fighter #西裝",
+    "main": [],
+    "tags": [
+      "彰人六箱",
+      "Fighter",
+      "西裝"
+    ]
+  },
+  {
+    "src": "images/len/323_185_04_023_n.webp",
+    "character": "鏡音レン",
+    "title": "彰人六箱 - Overcome one's limits（特訓前）",
+    "description": "#Fighter #西裝",
+    "main": [],
+    "tags": [
+      "彰人六箱",
+      "Fighter",
+      "西裝"
+    ]
+  },
+  {
+    "src": "images/len/323_185_04_023_t.webp",
+    "character": "鏡音レン",
+    "title": "彰人六箱 - Overcome one's limits（特訓後）",
+    "description": "#Fighter #西裝",
+    "main": [],
+    "tags": [
+      "彰人六箱",
+      "Fighter",
+      "西裝"
+    ]
+  },
+  {
+    "src": "images/toya/323_185_05_012_2.webp",
+    "character": "青柳冬弥",
+    "title": "彰人六箱 - Overcome one's limits",
+    "description": "#Fighter #西裝",
+    "main": [],
+    "tags": [
+      "彰人六箱",
+      "Fighter",
+      "西裝"
     ]
   }
 ]
