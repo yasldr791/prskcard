@@ -3,6 +3,7 @@
     "src": "images/ichika/001_st1_01_001_2.webp",
     "character": "星乃一歌",
     "title": "初始一星 - クールだけど友達想い",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -14,6 +15,7 @@
     "src": "images/saki/001_st1_02_002_2.webp",
     "character": "天馬咲希",
     "title": "初始一星 - いつも明るいムードメーカー",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -25,6 +27,7 @@
     "src": "images/honami/001_st1_03_003_2.webp",
     "character": "望月穂波",
     "title": "初始一星 - みんなに優しい優等生",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -36,6 +39,7 @@
     "src": "images/shiho/001_st1_04_004_2.webp",
     "character": "日野森志歩",
     "title": "初始一星 - 馴れ合いを嫌う一匹狼",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -47,6 +51,7 @@
     "src": "images/minori/001_st1_05_005_2.webp",
     "character": "花里みのり",
     "title": "初始一星 - めざせアイドル！",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -58,6 +63,7 @@
     "src": "images/haruka/001_st1_06_006_2.webp",
     "character": "桐谷遥",
     "title": "初始一星 - 国民的アイドルだった少女",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -69,6 +75,7 @@
     "src": "images/airi/001_st1_07_007_2.webp",
     "character": "桃井愛莉",
     "title": "初始一星 - 不屈のアイドル魂",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -80,6 +87,7 @@
     "src": "images/shizuku/001_st1_08_008_2.webp",
     "character": "日野森雫",
     "title": "初始一星 - 美貌の現役アイドル",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -91,6 +99,7 @@
     "src": "images/kohane/001_st1_09_009_2.webp",
     "character": "小豆澤こはね",
     "title": "初始一星 - 内気な小動物",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -102,6 +111,7 @@
     "src": "images/an/001_st1_10_010_2.webp",
     "character": "白石杏",
     "title": "初始一星 - カリスマシンガー",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -113,6 +123,7 @@
     "src": "images/akito/001_st1_11_011_2.webp",
     "character": "東雲彰人",
     "title": "初始一星 - 一目置かれる実力者",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -124,6 +135,7 @@
     "src": "images/toya/001_st1_12_012_2.webp",
     "character": "青柳冬弥",
     "title": "初始一星 - クラシックの秀才",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -135,6 +147,7 @@
     "src": "images/tsukasa/001_st1_13_013_2.webp",
     "character": "天馬司",
     "title": "初始一星 - いつかはスター！",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -146,6 +159,7 @@
     "src": "images/emu/001_st1_14_014_2.webp",
     "character": "鳳えむ",
     "title": "初始一星 - ハイパー★ポジティブ",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -157,6 +171,7 @@
     "src": "images/nene/001_st1_15_015_2.webp",
     "character": "草薙寧々",
     "title": "初始一星 - 毒舌コミュ障",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -168,6 +183,7 @@
     "src": "images/rui/001_st1_16_016_2.webp",
     "character": "神代類",
     "title": "初始一星 - マイペースな天才演出家",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -179,6 +195,7 @@
     "src": "images/kanade/001_st1_17_017_2.webp",
     "character": "宵崎奏",
     "title": "初始一星 - 音楽に愛された少女",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -190,6 +207,7 @@
     "src": "images/mafuyu/001_st1_18_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "初始一星 - 『いい子』に見られる優等生",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -201,6 +219,7 @@
     "src": "images/ena/001_st1_19_019_2.webp",
     "character": "東雲絵名",
     "title": "初始一星 - SNS依存な絵描き",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -212,6 +231,7 @@
     "src": "images/mizuki/001_st1_20_020_2.webp",
     "character": "暁山瑞希",
     "title": "初始一星 - 『カワイイ』にこだわる自由人",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -223,6 +243,7 @@
     "src": "images/miku/001_st1_21_021_2.webp",
     "character": "初音ミク",
     "title": "初始一星 - 誰もが知る歌姫",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -234,6 +255,7 @@
     "src": "images/rin/001_st1_22_022_2.webp",
     "character": "鏡音リン",
     "title": "初始一星 - はじける元気！",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -245,6 +267,7 @@
     "src": "images/len/001_st1_23_023_2.webp",
     "character": "鏡音レン",
     "title": "初始一星 - はじけるパワフル！",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -256,6 +279,7 @@
     "src": "images/luka/001_st1_24_024_2.webp",
     "character": "巡音ルカ",
     "title": "初始一星 - クールビューティー",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -267,6 +291,7 @@
     "src": "images/meiko/001_st1_25_025_2.webp",
     "character": "MEIKO",
     "title": "初始一星 - 赤く駆ける旋律",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -278,6 +303,7 @@
     "src": "images/kaito/001_st1_26_026_2.webp",
     "character": "KAITO",
     "title": "初始一星 - 涼やかな青い旋律",
+	"star": "s1n",
     "description": "#一星 #制服",
     "main": [],
     "tags": [
@@ -289,6 +315,7 @@
     "src": "images/ichika/002_old_01_001_2.webp",
     "character": "星乃一歌",
     "title": "初始二星 - Leo/need",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -302,6 +329,7 @@
     "src": "images/saki/002_old_02_002_2.webp",
     "character": "天馬咲希",
     "title": "初始二星 - Leo/need",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -315,6 +343,7 @@
     "src": "images/honami/002_old_03_003_2.webp",
     "character": "望月穂波",
     "title": "初始二星 - Leo/need",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -328,6 +357,7 @@
     "src": "images/shiho/002_old_04_004_2.webp",
     "character": "日野森志歩",
     "title": "初始二星 - Leo/need",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -341,6 +371,7 @@
     "src": "images/minori/002_old_05_005_2.webp",
     "character": "花里みのり",
     "title": "初始二星 - MORE MORE JUMP！",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -354,6 +385,7 @@
     "src": "images/haruka/002_old_06_006_2.webp",
     "character": "桐谷遥",
     "title": "初始二星 - MORE MORE JUMP！",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -367,6 +399,7 @@
     "src": "images/airi/002_old_07_007_2.webp",
     "character": "桃井愛莉",
     "title": "初始二星 - MORE MORE JUMP！",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -380,6 +413,7 @@
     "src": "images/shizuku/002_old_08_008_2.webp",
     "character": "日野森雫",
     "title": "初始二星 - MORE MORE JUMP！",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -393,6 +427,7 @@
     "src": "images/kohane/002_old_09_009_2.webp",
     "character": "小豆澤こはね",
     "title": "初始二星 - Vivid BAD SQUAD",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -406,6 +441,7 @@
     "src": "images/an/002_old_10_010_2.webp",
     "character": "白石杏",
     "title": "初始二星 - Vivid BAD SQUAD",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -419,6 +455,7 @@
     "src": "images/akito/002_old_11_011_2.webp",
     "character": "東雲彰人",
     "title": "初始二星 - Vivid BAD SQUAD",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -432,6 +469,7 @@
     "src": "images/toya/002_old_12_012_2.webp",
     "character": "青柳冬弥",
     "title": "初始二星 - Vivid BAD SQUAD",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -445,6 +483,7 @@
     "src": "images/tsukasa/002_old_13_013_2.webp",
     "character": "天馬司",
     "title": "初始二星 - ワンダーランズ×ショウタイム",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -458,6 +497,7 @@
     "src": "images/emu/002_old_14_014_2.webp",
     "character": "鳳えむ",
     "title": "初始二星 - ワンダーランズ×ショウタイム",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -471,6 +511,7 @@
     "src": "images/nene/002_old_15_015_2.webp",
     "character": "草薙寧々",
     "title": "初始二星 - ワンダーランズ×ショウタイム",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -484,6 +525,7 @@
     "src": "images/rui/002_old_16_016_2.webp",
     "character": "神代類",
     "title": "初始二星 - ワンダーランズ×ショウタイム",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -497,6 +539,7 @@
     "src": "images/kanade/002_old_17_017_2.webp",
     "character": "宵崎奏",
     "title": "初始二星 - 25時、ナイトコードで。",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -510,6 +553,7 @@
     "src": "images/mafuyu/002_old_18_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "初始二星 - 25時、ナイトコードで。",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -523,6 +567,7 @@
     "src": "images/ena/002_old_19_019_2.webp",
     "character": "東雲絵名",
     "title": "初始二星 - 25時、ナイトコードで。",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -536,6 +581,7 @@
     "src": "images/mizuki/002_old_20_020_2.webp",
     "character": "暁山瑞希",
     "title": "初始二星 - 25時、ナイトコードで。",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -549,6 +595,7 @@
     "src": "images/miku/002_old_21_021_2.webp",
     "character": "初音ミク",
     "title": "初始二星 - 教室のセカイ",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -562,6 +609,7 @@
     "src": "images/miku/002_old_22_021_2.webp",
     "character": "初音ミク",
     "title": "初始二星 - ステージのセカイ",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -575,6 +623,7 @@
     "src": "images/miku/002_old_23_021_2.webp",
     "character": "初音ミク",
     "title": "初始二星 - ストリートのセカイ",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -588,6 +637,7 @@
     "src": "images/miku/002_old_24_021_2.webp",
     "character": "初音ミク",
     "title": "初始二星 - ワンダーランドのセカイ",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -601,6 +651,7 @@
     "src": "images/miku/002_old_25_021_2.webp",
     "character": "初音ミク",
     "title": "初始二星 - 誰もいないセカイ",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -614,6 +665,7 @@
     "src": "images/rin/002_old_26_022_2.webp",
     "character": "鏡音リン",
     "title": "初始二星 - ステージのセカイ",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -627,6 +679,7 @@
     "src": "images/len/002_old_27_023_2.webp",
     "character": "鏡音レン",
     "title": "初始二星 - ストリートのセカイ",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -640,6 +693,7 @@
     "src": "images/luka/002_old_28_024_2.webp",
     "character": "巡音ルカ",
     "title": "初始二星 - 教室のセカイ",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -653,6 +707,7 @@
     "src": "images/meiko/002_old_29_025_2.webp",
     "character": "MEIKO",
     "title": "初始二星 - ストリートのセカイ",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -666,6 +721,7 @@
     "src": "images/kaito/002_old_30_026_2.webp",
     "character": "KAITO",
     "title": "初始二星 - ワンダーランドのセカイ",
+	"star": "s2n",
     "description": "#團服 #舊團服",
     "main": [],
     "tags": [
@@ -679,6 +735,7 @@
     "src": "images/ichika/003_st3_01_001_n.webp",
     "character": "星乃一歌",
     "title": "初始三星 - 見上げる先に（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -690,6 +747,7 @@
     "src": "images/ichika/003_st3_01_001_t.webp",
     "character": "星乃一歌",
     "title": "初始三星 - 見上げる先に（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -701,6 +759,7 @@
     "src": "images/saki/003_st3_02_002_n.webp",
     "character": "天馬咲希",
     "title": "初始三星 - やりたい100のこと（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -712,6 +771,7 @@
     "src": "images/saki/003_st3_02_002_t.webp",
     "character": "天馬咲希",
     "title": "初始三星 - やりたい100のこと（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -723,6 +783,7 @@
     "src": "images/honami/003_st3_03_003_n.webp",
     "character": "望月穂波",
     "title": "初始三星 - 味は変わらないのに（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -734,6 +795,7 @@
     "src": "images/honami/003_st3_03_003_t.webp",
     "character": "望月穂波",
     "title": "初始三星 - 味は変わらないのに（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -745,6 +807,7 @@
     "src": "images/shiho/003_st3_04_004_n.webp",
     "character": "日野森志歩",
     "title": "初始三星 - 胸に残る旋律（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -756,6 +819,7 @@
     "src": "images/shiho/003_st3_04_004_t.webp",
     "character": "日野森志歩",
     "title": "初始三星 - 胸に残る旋律（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -767,6 +831,7 @@
     "src": "images/minori/003_st3_05_005_n.webp",
     "character": "花里みのり",
     "title": "初始三星 - ライブ前夜の決意（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -778,6 +843,7 @@
     "src": "images/minori/003_st3_05_005_t.webp",
     "character": "花里みのり",
     "title": "初始三星 - ライブ前夜の決意（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -789,6 +855,7 @@
     "src": "images/haruka/003_st3_06_006_n.webp",
     "character": "桐谷遥",
     "title": "初始三星 - アイドルじゃない私（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -800,6 +867,7 @@
     "src": "images/haruka/003_st3_06_006_t.webp",
     "character": "桐谷遥",
     "title": "初始三星 - アイドルじゃない私（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -811,6 +879,7 @@
     "src": "images/airi/003_st3_07_007_n.webp",
     "character": "桃井愛莉",
     "title": "初始三星 - 夢を応援！（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -822,6 +891,7 @@
     "src": "images/airi/003_st3_07_007_t.webp",
     "character": "桃井愛莉",
     "title": "初始三星 - 夢を応援！（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -833,6 +903,7 @@
     "src": "images/shizuku/003_st3_08_008_n.webp",
     "character": "日野森雫",
     "title": "初始三星 - 華やかな現場で（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -844,6 +915,7 @@
     "src": "images/shizuku/003_st3_08_008_t.webp",
     "character": "日野森雫",
     "title": "初始三星 - 華やかな現場で（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -855,6 +927,7 @@
     "src": "images/kohane/003_st3_09_009_n.webp",
     "character": "小豆澤こはね",
     "title": "初始三星 - セカイで一息（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -866,6 +939,7 @@
     "src": "images/kohane/003_st3_09_009_t.webp",
     "character": "小豆澤こはね",
     "title": "初始三星 - セカイで一息（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -877,6 +951,7 @@
     "src": "images/an/003_st3_10_010_n.webp",
     "character": "白石杏",
     "title": "初始三星 - 絶賛、手伝い中！（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -888,6 +963,7 @@
     "src": "images/an/003_st3_10_010_t.webp",
     "character": "白石杏",
     "title": "初始三星 - 絶賛、手伝い中！（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -899,6 +975,7 @@
     "src": "images/akito/003_st3_11_011_n.webp",
     "character": "東雲彰人",
     "title": "初始三星 - 滲む苛立ち（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -910,6 +987,7 @@
     "src": "images/akito/003_st3_11_011_t.webp",
     "character": "東雲彰人",
     "title": "初始三星 - 滲む苛立ち（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -921,6 +999,7 @@
     "src": "images/toya/003_st3_12_012_n.webp",
     "character": "青柳冬弥",
     "title": "初始三星 - 絶たれた絆（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -932,6 +1011,7 @@
     "src": "images/toya/003_st3_12_012_t.webp",
     "character": "青柳冬弥",
     "title": "初始三星 - 絶たれた絆（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -943,6 +1023,7 @@
     "src": "images/tsukasa/003_st3_13_013_n.webp",
     "character": "天馬司",
     "title": "初始三星 - 着ぐるみからこんにちは（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -954,6 +1035,7 @@
     "src": "images/tsukasa/003_st3_13_013_t.webp",
     "character": "天馬司",
     "title": "初始三星 - 着ぐるみからこんにちは（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -965,6 +1047,7 @@
     "src": "images/emu/003_st3_14_014_n.webp",
     "character": "鳳えむ",
     "title": "初始三星 - レッツ作戦会議！（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -976,6 +1059,7 @@
     "src": "images/emu/003_st3_14_014_t.webp",
     "character": "鳳えむ",
     "title": "初始三星 - レッツ作戦会議！（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -987,6 +1071,7 @@
     "src": "images/nene/003_st3_15_015_n.webp",
     "character": "草薙寧々",
     "title": "初始三星 - 舞台裏から操作中（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -998,6 +1083,7 @@
     "src": "images/nene/003_st3_15_015_t.webp",
     "character": "草薙寧々",
     "title": "初始三星 - 舞台裏から操作中（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1009,6 +1095,7 @@
     "src": "images/rui/003_st3_16_016_n.webp",
     "character": "神代類",
     "title": "初始三星 - 神出鬼没なパフォーマー（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1020,6 +1107,7 @@
     "src": "images/rui/003_st3_16_016_t.webp",
     "character": "神代類",
     "title": "初始三星 - 神出鬼没なパフォーマー（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1031,6 +1119,7 @@
     "src": "images/kanade/003_st3_17_017_n.webp",
     "character": "宵崎奏",
     "title": "初始三星 - 画面の向こうに…（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1042,6 +1131,7 @@
     "src": "images/kanade/003_st3_17_017_t.webp",
     "character": "宵崎奏",
     "title": "初始三星 - 画面の向こうに…（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1053,6 +1143,7 @@
     "src": "images/mafuyu/003_st3_18_018_n.webp",
     "character": "朝比奈まふゆ",
     "title": "初始三星 - 『いい子』の私（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1064,6 +1155,7 @@
     "src": "images/mafuyu/003_st3_18_018_t.webp",
     "character": "朝比奈まふゆ",
     "title": "初始三星 - 『いい子』の私（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1075,6 +1167,7 @@
     "src": "images/ena/003_st3_19_019_n.webp",
     "character": "東雲絵名",
     "title": "初始三星 - 最高のアングル（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1086,6 +1179,7 @@
     "src": "images/ena/003_st3_19_019_t.webp",
     "character": "東雲絵名",
     "title": "初始三星 - 最高のアングル（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1097,6 +1191,7 @@
     "src": "images/mizuki/003_st3_20_020_n.webp",
     "character": "暁山瑞希",
     "title": "初始三星 - 譲れないこだわり（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1108,6 +1203,7 @@
     "src": "images/mizuki/003_st3_20_020_t.webp",
     "character": "暁山瑞希",
     "title": "初始三星 - 譲れないこだわり（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1119,6 +1215,7 @@
     "src": "images/miku/003_st3_21_021_n.webp",
     "character": "初音ミク",
     "title": "初始三星 - 見守るまなざし（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1130,6 +1227,7 @@
     "src": "images/miku/003_st3_21_021_t.webp",
     "character": "初音ミク",
     "title": "初始三星 - 見守るまなざし（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1141,6 +1239,7 @@
     "src": "images/rin/003_st3_22_022_n.webp",
     "character": "鏡音リン",
     "title": "初始三星 - 輝くステージ（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1152,6 +1251,7 @@
     "src": "images/rin/003_st3_22_022_t.webp",
     "character": "鏡音リン",
     "title": "初始三星 - 輝くステージ（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1163,6 +1263,7 @@
     "src": "images/len/003_st3_23_023_n.webp",
     "character": "鏡音レン",
     "title": "初始三星 - 難しい『仲直り』（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1174,6 +1275,7 @@
     "src": "images/len/003_st3_23_023_t.webp",
     "character": "鏡音レン",
     "title": "初始三星 - 難しい『仲直り』（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1185,6 +1287,7 @@
     "src": "images/luka/003_st3_24_024_n.webp",
     "character": "巡音ルカ",
     "title": "初始三星 - 導く手（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1196,6 +1299,7 @@
     "src": "images/luka/003_st3_24_024_t.webp",
     "character": "巡音ルカ",
     "title": "初始三星 - 導く手（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1207,6 +1311,7 @@
     "src": "images/meiko/003_st3_25_025_n.webp",
     "character": "MEIKO",
     "title": "初始三星 - こだわりの一杯（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1218,6 +1323,7 @@
     "src": "images/meiko/003_st3_25_025_t.webp",
     "character": "MEIKO",
     "title": "初始三星 - こだわりの一杯（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1229,6 +1335,7 @@
     "src": "images/kaito/003_st3_26_026_n.webp",
     "character": "KAITO",
     "title": "初始三星 - 劇団員募集中！（特訓前）",
+	"star": "s3n",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1240,6 +1347,7 @@
     "src": "images/kaito/003_st3_26_026_t.webp",
     "character": "KAITO",
     "title": "初始三星 - 劇団員募集中！（特訓後）",
+	"star": "s3t",
     "description": "#初始 #初始三星",
     "main": [],
     "tags": [
@@ -1443,6 +1551,7 @@
     "src": "images/ichika/005_001_05_001_2.webp",
     "character": "星乃一歌",
     "title": "咲希一箱 - 雨上がりの一番星",
+	"star": "s2n",
     "description": "#一番星",
     "main": [],
     "tags": [
@@ -1566,6 +1675,7 @@
     "src": "images/ena/006_002_05_019_2.webp",
     "character": "東雲絵名",
     "title": "まふゆ一箱 - 囚われのマリオネット",
+	"star": "s2n",
     "description": "#人偶",
     "main": [],
     "tags": [
@@ -1676,6 +1786,7 @@
     "src": "images/nene/007_003_05_015_2.webp",
     "character": "草薙寧々",
     "title": "類一箱 - 全力！ワンダーハロウィン！",
+	"star": "s2n",
     "description": "#馬鈴薯",
     "main": [],
     "tags": [
@@ -1792,6 +1903,7 @@
     "src": "images/saki/008_004_05_002_2.webp",
     "character": "天馬咲希",
     "title": "えむ一混 - 走れ！体育祭！～実行委員は大忙し～",
+	"star": "s2n",
     "description": "#體育祭 #運動會",
     "main": [],
     "tags": [
@@ -1901,6 +2013,7 @@
     "src": "images/haruka/009_005_05_006_2.webp",
     "character": "桐谷遥",
     "title": "愛莉一箱 - ここからRE:START",
+	"star": "s2n",
     "description": "#啦啦隊",
     "main": [],
     "tags": [
@@ -2017,6 +2130,7 @@
     "src": "images/meiko/010_006_05_025_2.webp",
     "character": "MEIKO",
     "title": "杏一箱 - いつか、背中あわせのリリックを",
+	"star": "s2n",
     "description": "#Fw",
     "main": [],
     "tags": [
@@ -2145,6 +2259,7 @@
     "src": "images/toya/011_007_05_012_2.webp",
     "character": "青柳冬弥",
     "title": "瑞希一混 - KAMIKOU FESTIVAL!",
+	"star": "s2n",
     "description": "#神高",
     "main": [],
     "tags": [
@@ -2272,6 +2387,7 @@
     "src": "images/emu/012_008_05_014_2.webp",
     "character": "鳳えむ",
     "title": "寧々一箱 - 聖なる夜に、この歌声を",
+	"star": "s2n",
     "description": "#聖誕",
     "main": [],
     "tags": [
@@ -2406,6 +2522,7 @@
     "src": "images/tsukasa/013_009_06_013_2.webp",
     "character": "天馬司",
     "title": "ミク一混 - セカイのハッピーニューイヤー！",
+	"star": "s2n",
     "description": "#新年",
     "main": [],
     "tags": [
@@ -2522,6 +2639,7 @@
     "src": "images/shiho/014_010_05_004_2.webp",
     "character": "日野森志歩",
     "title": "穂波一箱 - 揺れるまま、でも君は前へ",
+	"star": "s2n",
     "description": "#勇氣 #雨晴",
     "main": [],
     "tags": [
@@ -2623,6 +2741,7 @@
     "src": "images/minori/015_011_05_005_2.webp",
     "character": "花里みのり",
     "title": "雫一箱 - Color of Myself!",
+	"star": "s2n",
     "description": "#淚滴",
     "main": [],
     "tags": [
@@ -2730,6 +2849,7 @@
     "src": "images/len/016_012_05_023_2.webp",
     "character": "鏡音レン",
     "title": "冬弥一箱 - Period of NOCTURN",
+	"star": "s2n",
     "description": "#夜曲",
     "main": [],
     "tags": [
@@ -2854,6 +2974,7 @@
     "src": "images/rui/017_013_05_016_2.webp",
     "character": "神代類",
     "title": "志歩一混 - 響くトワイライトパレード",
+	"star": "s2n",
     "description": "#小怪獸",
     "main": [],
     "tags": [
@@ -2980,6 +3101,7 @@
     "src": "images/mizuki/018_014_05_020_2.webp",
     "character": "暁山瑞希",
     "title": "絵名一箱 - 満たされないペイルカラー",
+	"star": "s2n",
     "description": "#限灰",
     "main": [],
     "tags": [
@@ -3090,6 +3212,7 @@
     "src": "images/tsukasa/019_015_05_013_2.webp",
     "character": "天馬司",
     "title": "えむ一箱 - スマイルオブドリーマー",
+	"star": "s2n",
     "description": "#夢想家",
     "main": [],
     "tags": [
@@ -3190,6 +3313,7 @@
     "src": "images/honami/020_016_05_003_2.webp",
     "character": "望月穂波",
     "title": "咲希一混 - 天馬さんちのひな祭り",
+	"star": "s2n",
     "description": "#女兒節",
     "main": [],
     "tags": [
@@ -3297,6 +3421,7 @@
     "src": "images/airi/021_017_05_007_2.webp",
     "character": "桃井愛莉",
     "title": "みのり一箱 - 届け！HOPEFUL STAGE♪",
+	"star": "s2n",
     "description": "#天使",
     "main": [],
     "tags": [
@@ -3461,6 +3586,7 @@
     "src": "images/kanade/023_018_05_017_2.webp",
     "character": "宵崎奏",
     "title": "一歌一混 - 君と歌う、桜舞う世界で",
+	"star": "s2n",
     "description": "#櫻花 #半週年",
     "main": [],
     "tags": [
@@ -3579,6 +3705,7 @@
     "src": "images/mafuyu/024_019_05_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "瑞希一箱 - シークレット・ディスタンス",
+	"star": "s2n",
     "description": "#ID",
     "main": [],
     "tags": [
@@ -3722,6 +3849,7 @@
     "src": "images/meiko/025_020_05_025_2.webp",
     "character": "MEIKO",
     "title": "志歩一箱 - Resonate with you",
+	"star": "s2n",
     "description": "#「1」活 #4=1",
     "main": [],
     "tags": [
@@ -3836,6 +3964,7 @@
     "src": "images/toya/026_021_05_012_2.webp",
     "character": "青柳冬弥",
     "title": "彰人一箱 - STRAY BAD DOG",
+	"star": "s2n",
     "description": "#電影",
     "main": [],
     "tags": [
@@ -3961,6 +4090,7 @@
     "src": "images/luka/027_022_05_024_2.webp",
     "character": "巡音ルカ",
     "title": "絵名一混 - お悩み聞かせて！わくわくピクニック",
+	"star": "s2n",
     "description": "#野餐 #妖精",
     "main": [],
     "tags": [
@@ -4071,6 +4201,7 @@
     "src": "images/airi/028_023_05_007_2.webp",
     "character": "桃井愛莉",
     "title": "遥一箱 - 頑張るあなたにBreak Time！",
+	"star": "s2n",
     "description": "#女僕",
     "main": [],
     "tags": [
@@ -4196,6 +4327,7 @@
     "src": "images/an/029_024_05_010_2.webp",
     "character": "白石杏",
     "title": "冬弥一混 - 純白の貴方へ、誓いの歌を！",
+	"star": "s2n",
     "description": "#婚活",
     "main": [],
     "tags": [
@@ -4306,6 +4438,7 @@
     "src": "images/kaito/030_025_05_026_2.webp",
     "character": "KAITO",
     "title": "司一箱 - ワンダーマジカルショウタイム！",
+	"star": "s2n",
     "description": "#國王",
     "main": [],
     "tags": [
@@ -4415,6 +4548,7 @@
     "src": "images/ena/031_026_05_019_2.webp",
     "character": "東雲絵名",
     "title": "奏一箱 - カーネーション・リコレクション",
+	"star": "s2n",
     "description": "#康乃馨",
     "main": [],
     "tags": [
@@ -4571,6 +4705,7 @@
     "src": "images/ichika/033_027_05_001_2.webp",
     "character": "星乃一歌",
     "title": "咲希二箱 - Unnamed Harmony",
+	"star": "s2n",
     "description": "#雨傘 #雨天",
     "main": [],
     "tags": [
@@ -4680,6 +4815,7 @@
     "src": "images/rin/034_028_05_022_2.webp",
     "character": "鏡音リン",
     "title": "こはね一箱 - Awakening Beat",
+	"star": "s2n",
     "description": "#倉鼠",
     "main": [],
     "tags": [
@@ -4796,6 +4932,7 @@
     "src": "images/mizuki/035_029_05_020_2.webp",
     "character": "暁山瑞希",
     "title": "彰人一混 - 夏祭り、鳴り響く音は",
+	"star": "s2n",
     "description": "#祭典",
     "main": [],
     "tags": [
@@ -4905,6 +5042,7 @@
     "src": "images/kohane/036_030_05_009_2.webp",
     "character": "小豆澤こはね",
     "title": "穂波一混 - きっと最高のsummer！",
+	"star": "s2n",
     "description": "#泳裝",
     "main": [],
     "tags": [
@@ -5013,6 +5151,7 @@
     "src": "images/minori/037_031_05_005_2.webp",
     "character": "花里みのり",
     "title": "愛莉二箱 - ハッピー・ラブリー・エブリデイ！",
+	"star": "s2n",
     "description": "#郵差",
     "main": [],
     "tags": [
@@ -5123,6 +5262,7 @@
     "src": "images/emu/038_032_05_014_2.webp",
     "character": "鳳えむ",
     "title": "寧々二箱 - マーメイドにあこがれて",
+	"star": "s2n",
     "description": "#人魚",
     "main": [],
     "tags": [
@@ -5232,6 +5372,7 @@
     "src": "images/mafuyu/039_033_05_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "雫一混 - ふたり、月うさぎ",
+	"star": "s2n",
     "description": "#月兔",
     "main": [],
     "tags": [
@@ -5348,6 +5489,7 @@
     "src": "images/saki/040_034_05_002_2.webp",
     "character": "天馬咲希",
     "title": "一歌一箱 - Knock the Future!!",
+	"star": "s2n",
     "description": "#軍裝",
     "main": [],
     "tags": [
@@ -5469,6 +5611,7 @@
     "src": "images/kanade/041_035_05_017_2.webp",
     "character": "宵崎奏",
     "title": "まふゆ二箱 - 灯のミラージュ",
+	"star": "s2n",
     "description": "#蘋果",
     "main": [],
     "tags": [
@@ -5650,6 +5793,7 @@
     "src": "images/haruka/044_bd1_01_006_2.webp",
     "character": "桐谷遥",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2021生日",
     "main": [],
     "tags": [
@@ -5758,6 +5902,7 @@
     "src": "images/akito/045_037_05_011_2.webp",
     "character": "東雲彰人",
     "title": "杏二箱 - Bout for Beside You",
+	"star": "s2n",
     "description": "#拳擊",
     "main": [],
     "tags": [
@@ -5875,6 +6020,7 @@
     "src": "images/rin/046_038_05_022_2.webp",
     "character": "鏡音リン",
     "title": "類二箱 - Revival my dream",
+	"star": "s2n",
     "description": "#鍊金",
     "main": [],
     "tags": [
@@ -5887,6 +6033,7 @@
     "src": "images/honami/047_bd1_01_003_2.webp",
     "character": "望月穂波",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2021生日",
     "main": [],
     "tags": [
@@ -6003,6 +6150,7 @@
     "src": "images/mafuyu/048_039_05_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "瑞希二箱 - ボクのあしあと キミのゆくさき",
+	"star": "s2n",
     "description": "#隱者",
     "main": [],
     "tags": [
@@ -6015,7 +6163,8 @@
   {
     "src": "images/meiko/049_bd1_01_025_2.webp",
     "character": "MEIKO",
-    "title": "Happy Birthday!!",
+    "title": "Happy Anniversary!!",
+	"star": "bd",
     "description": "#生日 #2021生日",
     "main": [],
     "tags": [
@@ -6156,6 +6305,7 @@
     "src": "images/len/050_040_05_023_2.webp",
     "character": "鏡音レン",
     "title": "穂波二箱 - 揺るがぬ想い、今言葉にして",
+	"star": "s2n",
     "description": "#言葉 #修女",
     "main": [],
     "tags": [
@@ -6172,6 +6322,7 @@
     "src": "images/akito/051_bd1_01_011_2.webp",
     "character": "東雲彰人",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2021生日",
     "main": [],
     "tags": [
@@ -6280,6 +6431,7 @@
     "src": "images/shizuku/052_041_05_008_2.webp",
     "character": "日野森雫",
     "title": "こはね一混 - バディ・ファニー・スペンドタイム♪",
+	"star": "s2n",
     "description": "#遊樂園",
     "main": [],
     "tags": [
@@ -6396,6 +6548,7 @@
     "src": "images/honami/053_042_05_003_2.webp",
     "character": "望月穂波",
     "title": "まふゆ一混 - 交わる旋律 灯るぬくもり",
+	"star": "s2n",
     "description": "#初雪",
     "main": [],
     "tags": [
@@ -6409,6 +6562,7 @@
     "src": "images/shizuku/054_bd1_01_008_2.webp",
     "character": "日野森雫",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2021生日",
     "main": [],
     "tags": [
@@ -6525,6 +6679,7 @@
     "src": "images/haruka/055_043_05_006_2.webp",
     "character": "桐谷遥",
     "title": "みのり二箱 - MORE MORE Making Xmas",
+	"star": "s2n",
     "description": "#西洋棋",
     "main": [],
     "tags": [
@@ -6678,6 +6833,7 @@
     "src": "images/miku/056_aku_06_021_2.webp",
     "character": "初音ミク",
     "title": "惡之大罪合作 - 眠りを知らぬ怠惰な未亡人",
+	"star": "s2n",
     "description": "#大罪",
     "main": [],
     "tags": [
@@ -6804,6 +6960,7 @@
     "src": "images/kohane/057_044_05_009_2.webp",
     "character": "小豆澤こはね",
     "title": "冬弥二箱 - Same Dreams, Same Colors",
+	"star": "s2n",
     "description": "#露營",
     "main": [],
     "tags": [
@@ -6817,7 +6974,8 @@
   {
     "src": "images/rin/058_bd1_01_022_2.webp",
     "character": "鏡音リン",
-    "title": "Happy Birthday!!",
+    "title": "Happy Anniversary!!",
+	"star": "bd",
     "description": "#生日 #2021生日",
     "main": [],
     "tags": [
@@ -6829,7 +6987,8 @@
   {
     "src": "images/len/059_bd1_01_023_2.webp",
     "character": "鏡音レン",
-    "title": "Happy Birthday!!",
+    "title": "Happy Anniversary!!",
+	"star": "bd",
     "description": "#生日 #2021生日",
     "main": [],
     "tags": [
@@ -6980,6 +7139,7 @@
     "src": "images/shiho/061_045_05_004_2.webp",
     "character": "日野森志歩",
     "title": "遥一混 - 祈りの先 願う明日は",
+	"star": "s2n",
     "description": "#新年",
     "main": [],
     "tags": [
@@ -6992,6 +7152,7 @@
     "src": "images/shiho/062_bd2_01_004_2.webp",
     "character": "日野森志歩",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -7108,6 +7269,7 @@
     "src": "images/rui/063_046_05_016_2.webp",
     "character": "神代類",
     "title": "えむ二箱 - POP IN MY HEART!!",
+	"star": "s2n",
     "description": "#調查隊",
     "main": [],
     "tags": [
@@ -7217,6 +7379,7 @@
     "src": "images/miku/064_047_05_021_2.webp",
     "character": "初音ミク",
     "title": "奏二箱 - いつか、絶望の底から",
+	"star": "s2n",
     "description": "#絕望",
     "main": [],
     "tags": [
@@ -7229,6 +7392,7 @@
     "src": "images/mafuyu/065_bd2_01_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -7240,7 +7404,8 @@
   {
     "src": "images/luka/066_bd2_01_024_2.webp",
     "character": "巡音ルカ",
-    "title": "Happy Birthday!!",
+    "title": "Happy Anniversary!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -7357,6 +7522,7 @@
     "src": "images/shizuku/067_048_05_008_2.webp",
     "character": "日野森雫",
     "title": "愛莉一混 - 秘密の♡バレンタイン大作戦！",
+	"star": "s2n",
     "description": "#情人節",
     "main": [],
     "tags": [
@@ -7474,6 +7640,7 @@
     "src": "images/akito/068_049_05_011_2.webp",
     "character": "東雲彰人",
     "title": "こはね二箱 - Legend still vivid",
+	"star": "s2n",
     "description": "#Flyer",
     "main": [],
     "tags": [
@@ -7487,6 +7654,7 @@
     "src": "images/kanade/069_bd2_01_017_2.webp",
     "character": "宵崎奏",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -7498,7 +7666,8 @@
   {
     "src": "images/kaito/070_bd2_01_026_2.webp",
     "character": "KAITO",
-    "title": "Happy Birthday!!",
+    "title": "Happy Anniversary!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -7625,6 +7794,7 @@
     "src": "images/honami/071_050_05_003_2.webp",
     "character": "望月穂波",
     "title": "志歩二箱 - あの日、空は遠かった",
+	"star": "s2n",
     "description": "#機車 #公路",
     "main": [],
     "tags": [
@@ -7736,6 +7906,7 @@
     "src": "images/len/072_051_05_023_2.webp",
     "character": "鏡音レン",
     "title": "司一混 - 怪盗紳士のハラハラ！？ホワイトデー",
+	"star": "s2n",
     "description": "#白情 #騎士",
     "main": [],
     "tags": [
@@ -7748,6 +7919,7 @@
     "src": "images/kohane/073_bd2_01_009_2.webp",
     "character": "小豆澤こはね",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -7856,6 +8028,7 @@
     "src": "images/airi/074_052_05_007_2.webp",
     "character": "桃井愛莉",
     "title": "雫二箱 - Cast Spell on You",
+	"star": "s2n",
     "description": "#魔女",
     "main": [],
     "tags": [
@@ -7868,6 +8041,7 @@
     "src": "images/airi/075_bd2_01_007_2.webp",
     "character": "桃井愛莉",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -8000,6 +8174,7 @@
     "src": "images/mizuki/076_053_05_020_2.webp",
     "character": "暁山瑞希",
     "title": "絵名二箱 - 空白のキャンバスに描く私は",
+	"star": "s2n",
     "description": "#畫布",
     "main": [],
     "tags": [
@@ -8195,6 +8370,7 @@
     "src": "images/rin/078_054_06_022_2.webp",
     "character": "鏡音リン",
     "title": "ミク二混 - セカイの桜、つながる想い",
+	"star": "s2n",
     "description": "#1.5",
     "main": [],
     "tags": [
@@ -8314,6 +8490,7 @@
     "src": "images/miku/079_055_05_021_2.webp",
     "character": "初音ミク",
     "title": "司二箱 - まばゆい光のステージで",
+	"star": "s2n",
     "description": "#88星",
     "main": [],
     "tags": [
@@ -8327,6 +8504,7 @@
     "src": "images/minori/080_bd2_01_005_2.webp",
     "character": "花里みのり",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -8451,6 +8629,7 @@
     "src": "images/luka/081_056_05_024_2.webp",
     "character": "巡音ルカ",
     "title": "一歌二箱 - Live with memories",
+	"star": "s2n",
     "description": "#列車",
     "main": [],
     "tags": [
@@ -8465,6 +8644,7 @@
     "src": "images/ena/082_bd2_01_019_2.webp",
     "character": "東雲絵名",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -8573,6 +8753,7 @@
     "src": "images/shizuku/083_057_05_008_2.webp",
     "character": "日野森雫",
     "title": "遥二箱 - つなぐPainful Hope",
+	"star": "s2n",
     "description": "#If",
     "main": [],
     "tags": [
@@ -8585,6 +8766,7 @@
     "src": "images/saki/084_bd2_01_002_2.webp",
     "character": "天馬咲希",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -8702,6 +8884,7 @@
     "src": "images/ena/085_058_05_019_2.webp",
     "character": "東雲絵名",
     "title": "類一混 - 白熱！神高応援団！",
+	"star": "s2n",
     "description": "#運動會",
     "main": [],
     "tags": [
@@ -8714,6 +8897,7 @@
     "src": "images/tsukasa/086_bd2_01_013_2.webp",
     "character": "天馬司",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -8814,6 +8998,7 @@
     "src": "images/an/087_059_05_010_2.webp",
     "character": "白石杏",
     "title": "彰人二箱 - THE POWER OF UNITY",
+	"star": "s2n",
     "description": "#月光",
     "main": [],
     "tags": [
@@ -8825,6 +9010,7 @@
     "src": "images/toya/088_bd2_01_012_2.webp",
     "character": "青柳冬弥",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -8949,6 +9135,7 @@
     "src": "images/kohane/089_060_05_009_2.webp",
     "character": "小豆澤こはね",
     "title": "杏一混 - 青空に願うユア・ハピネス！",
+	"star": "s2n",
     "description": "#婚活",
     "main": [],
     "tags": [
@@ -9077,6 +9264,7 @@
     "src": "images/kanade/090_061_05_017_2.webp",
     "character": "宵崎奏",
     "title": "まふゆ三箱 - 迷い子の手を引く、そのさきは",
+	"star": "s2n",
     "description": "#Bug",
     "main": [],
     "tags": [
@@ -9195,6 +9383,7 @@
     "src": "images/rui/091_062_05_016_2.webp",
     "character": "神代類",
     "title": "寧々三箱 - 絶体絶命！？アイランドパニック！",
+	"star": "s2n",
     "description": "#無人島",
     "main": [],
     "tags": [
@@ -9209,6 +9398,7 @@
     "src": "images/rui/092_bd2_01_016_2.webp",
     "character": "神代類",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -9357,6 +9547,7 @@
     "src": "images/ichika/094_063_05_001_2.webp",
     "character": "星乃一歌",
     "title": "奏一混 - みんなでエンジョイ！スポジョイパーク",
+	"star": "s2n",
     "description": "#棒球",
     "main": [],
     "tags": [
@@ -9458,6 +9649,7 @@
     "src": "images/toya/095_064_05_012_2.webp",
     "character": "青柳冬弥",
     "title": "杏三箱 - The Vivid Old Tale",
+	"star": "s2n",
     "description": "#向日葵",
     "main": [],
     "tags": [
@@ -9469,6 +9661,7 @@
     "src": "images/nene/096_bd2_01_015_2.webp",
     "character": "草薙寧々",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -9587,6 +9780,7 @@
     "src": "images/shiho/097_065_05_004_2.webp",
     "character": "日野森志歩",
     "title": "咲希三箱 - No seek No find",
+	"star": "s2n",
     "description": "#地雷",
     "main": [],
     "tags": [
@@ -9600,6 +9794,7 @@
     "src": "images/an/098_bd2_01_010_2.webp",
     "character": "白石杏",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -9716,6 +9911,7 @@
     "src": "images/miku/099_066_05_021_2.webp",
     "character": "初音ミク",
     "title": "寧々一混 - close game/OFFLINE",
+	"star": "s2n",
     "description": "#電玩",
     "main": [],
     "tags": [
@@ -9817,6 +10013,7 @@
     "src": "images/haruka/100_067_05_006_2.webp",
     "character": "桐谷遥",
     "title": "愛莉三箱 - 青空の先、輝きを追いかけて",
+	"star": "s2n",
     "description": "#泳裝",
     "main": [],
     "tags": [
@@ -9828,6 +10025,7 @@
     "src": "images/ichika/101_bd2_01_001_2.webp",
     "character": "星乃一歌",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -9937,6 +10135,7 @@
     "src": "images/luka/102_068_05_024_2.webp",
     "character": "巡音ルカ",
     "title": "瑞希三箱 - そしていま、リボンを結んで",
+	"star": "s2n",
     "description": "#睡衣",
     "main": [],
     "tags": [
@@ -9949,6 +10148,7 @@
     "src": "images/mizuki/103_bd2_01_020_2.webp",
     "character": "暁山瑞希",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -9960,7 +10160,8 @@
   {
     "src": "images/miku/104_bd2_01_021_2.webp",
     "character": "初音ミク",
-    "title": "Happy Birthday!!",
+    "title": "Happy Anniversary!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -10085,6 +10286,7 @@
     "src": "images/honami/105_069_05_003_2.webp",
     "character": "望月穂波",
     "title": "志歩三箱 - Don't lose faith!",
+	"star": "s2n",
     "description": "#Voices",
     "main": [],
     "tags": [
@@ -10099,6 +10301,7 @@
     "src": "images/emu/106_bd2_01_014_2.webp",
     "character": "鳳えむ",
     "title": "Happy Birthday!!",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -10231,6 +10434,7 @@
     "src": "images/kanade/107_070_05_017_2.webp",
     "character": "宵崎奏",
     "title": "絵名二混 - 好きを描いて♪レインボーキャンバス",
+	"star": "s2n",
     "description": "#塗鴉 #油漆",
     "main": [],
     "tags": [
@@ -10358,6 +10562,7 @@
     "src": "images/akito/108_071_05_011_2.webp",
     "character": "東雲彰人",
     "title": "冬弥三箱 - Walk on and on",
+	"star": "s2n",
     "description": "#鳥籠 #虛扇",
     "main": [],
     "tags": [
@@ -10552,6 +10757,7 @@
     "src": "images/haruka/111_bd2_01_006_2.webp",
     "character": "桐谷遥",
     "title": "Happy Birthday!!2022",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -10668,6 +10874,7 @@
     "src": "images/kaito/112_073_05_026_2.webp",
     "character": "KAITO",
     "title": "みのり三箱 - 拝啓、あの頃のわたしへ",
+	"star": "s2n",
     "description": "#DP",
     "main": [],
     "tags": [
@@ -10785,6 +10992,7 @@
     "src": "images/emu/113_074_05_014_2.webp",
     "character": "鳳えむ",
     "title": "類三箱 - カーテンコールに惜別を",
+	"star": "s2n",
     "description": "#結末",
     "main": [],
     "tags": [
@@ -10798,6 +11006,7 @@
     "src": "images/honami/114_bd2_01_003_2.webp",
     "character": "望月穂波",
     "title": "Happy Birthday!!2022",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -10914,6 +11123,7 @@
     "src": "images/rin/115_075_05_022_2.webp",
     "character": "鏡音リン",
     "title": "こはね二混 - 絶叫！？ オオカミの森へようこそ！",
+	"star": "s2n",
     "description": "#狼森",
     "main": [],
     "tags": [
@@ -10925,7 +11135,8 @@
   {
     "src": "images/meiko/116_bd2_01_025_2.webp",
     "character": "MEIKO",
-    "title": "Happy Birthday!!2022",
+    "title": "Happy Anniversary!!2022",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -11034,6 +11245,7 @@
     "src": "images/kaito/117_076_05_026_2.webp",
     "character": "KAITO",
     "title": "一歌三箱 - Echo my melody",
+	"star": "s2n",
     "description": "#耳機",
     "main": [],
     "tags": [
@@ -11046,6 +11258,7 @@
     "src": "images/akito/118_bd2_01_011_2.webp",
     "character": "東雲彰人",
     "title": "Happy Birthday!!2022",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -11163,6 +11376,7 @@
     "src": "images/len/119_077_05_023_2.webp",
     "character": "鏡音レン",
     "title": "絵名三箱 - 願いは、いつか朝をこえて",
+	"star": "s2n",
     "description": "#原宿",
     "main": [],
     "tags": [
@@ -11273,6 +11487,7 @@
     "src": "images/shizuku/120_078_05_008_2.webp",
     "character": "日野森雫",
     "title": "遥三箱 - あの日の夢の、彼方向こうへ",
+	"star": "s2n",
     "description": "#空姐",
     "main": [],
     "tags": [
@@ -11285,6 +11500,7 @@
     "src": "images/shizuku/121_bd2_01_008_2.webp",
     "character": "日野森雫",
     "title": "Happy Birthday!!2022",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -11409,6 +11625,7 @@
     "src": "images/an/122_079_05_010_2.webp",
     "character": "白石杏",
     "title": "彰人三箱 - Find A Way Out",
+	"star": "s2n",
     "description": "#假死化",
     "main": [],
     "tags": [
@@ -11511,6 +11728,7 @@
     "src": "images/shiho/123_080_05_004_2.webp",
     "character": "日野森志歩",
     "title": "雫二混 - 弓引け、白の世界で",
+	"star": "s2n",
     "description": "#弓道",
     "main": [],
     "tags": [
@@ -11521,7 +11739,8 @@
   {
     "src": "images/rin/124_bd2_01_022_2.webp",
     "character": "鏡音リン",
-    "title": "Happy Birthday!!2022",
+    "title": "Happy Anniversary!!2022",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -11533,7 +11752,8 @@
   {
     "src": "images/len/125_bd2_01_023_2.webp",
     "character": "鏡音レン",
-    "title": "Happy Birthday!!2022",
+    "title": "Happy Anniversary!!2022",
+	"star": "bd",
     "description": "#生日 #2022生日",
     "main": [],
     "tags": [
@@ -11679,6 +11899,7 @@
     "src": "images/akito/127_081_05_011_2.webp",
     "character": "東雲彰人",
     "title": "司二混 - 新春！ 獅子舞ロボのお正月ショー！ ",
+	"star": "s2n",
     "description": "#新年",
     "main": [],
     "tags": [
@@ -11690,6 +11911,7 @@
     "src": "images/shiho/128_bd3_01_004_2.webp",
     "character": "日野森志歩",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -11800,6 +12022,7 @@
     "src": "images/nene/129_082_05_015_2.webp",
     "character": "草薙寧々",
     "title": "えむ三箱 - 夢の途中、輝く星たちへ",
+	"star": "s2n",
     "description": "#彼得潘",
     "main": [],
     "tags": [
@@ -11925,6 +12148,7 @@
     "src": "images/ichika/130_083_05_001_2.webp",
     "character": "星乃一歌",
     "title": "穂波三箱 - Little Bravers!",
+	"star": "s2n",
     "description": "#候鳥",
     "main": [],
     "tags": [
@@ -11939,6 +12163,7 @@
     "src": "images/mafuyu/131_bd3_01_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -11950,7 +12175,8 @@
   {
     "src": "images/luka/132_bd3_01_024_2.webp",
     "character": "巡音ルカ",
-    "title": "Happy Birthday!!2023",
+    "title": "Happy Anniversary!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -12067,6 +12293,7 @@
     "src": "images/len/133_084_05_023_2.webp",
     "character": "鏡音レン",
     "title": "一歌二混 - キャンドルの香りは思い出と共に",
+	"star": "s2n",
     "description": "#情人節 #蠟燭",
     "main": [],
     "tags": [
@@ -12080,6 +12307,7 @@
     "src": "images/kanade/134_bd3_01_017_2.webp",
     "character": "宵崎奏",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -12196,6 +12424,7 @@
     "src": "images/meiko/135_085_05_025_2.webp",
     "character": "MEIKO",
     "title": "雫三箱 - ほどかれた糸のその先に",
+	"star": "s2n",
     "description": "#拇指 #荷塘",
     "main": [],
     "tags": [
@@ -12208,7 +12437,8 @@
   {
     "src": "images/kaito/136_bd3_01_026_2.webp",
     "character": "KAITO",
-    "title": "Happy Birthday!!2023",
+    "title": "Happy Anniversary!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -12333,6 +12563,7 @@
     "src": "images/luka/137_086_05_024_2.webp",
     "character": "巡音ルカ",
     "title": "こはね三箱 - Kick it up a notch",
+	"star": "s2n",
     "description": "#羊",
     "main": [],
     "tags": [
@@ -12473,6 +12704,7 @@
     "src": "images/saki/138_087_05_002_2.webp",
     "character": "天馬咲希",
     "title": "冬弥二混 - Never Give Up Cooking!",
+	"star": "s2n",
     "description": "#龍騎",
     "main": [],
     "tags": [
@@ -12488,6 +12720,7 @@
     "src": "images/kohane/139_bd3_01_009_2.webp",
     "character": "小豆澤こはね",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -12596,6 +12829,7 @@
     "src": "images/meiko/140_088_05_025_2.webp",
     "character": "MEIKO",
     "title": "司三箱 - 天の果てのフェニックスへ",
+	"star": "s2n",
     "description": "#小丑",
     "main": [],
     "tags": [
@@ -12608,6 +12842,7 @@
     "src": "images/airi/141_bd3_01_007_2.webp",
     "character": "桃井愛莉",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -12716,6 +12951,7 @@
     "src": "images/mafuyu/142_089_05_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "奏三箱 - イミシブル・ディスコード",
+	"star": "s2n",
     "description": "#薩姆薩",
     "main": [],
     "tags": [
@@ -13012,6 +13248,7 @@
     "src": "images/shiho/145_091_05_004_2.webp",
     "character": "日野森志歩",
     "title": "咲希四箱 - Get over it.",
+	"star": "s2n",
     "description": "#太空 #相生",
     "main": [],
     "tags": [
@@ -13025,6 +13262,7 @@
     "src": "images/minori/146_bd3_01_005_2.webp",
     "character": "花里みのり",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -13141,6 +13379,7 @@
     "src": "images/minori/147_092_05_005_2.webp",
     "character": "花里みのり",
     "title": "愛莉四箱 - Re-tie Friendship",
+	"star": "s2n",
     "description": "#桃鍵",
     "main": [],
     "tags": [
@@ -13154,6 +13393,7 @@
     "src": "images/ena/148_bd3_01_019_2.webp",
     "character": "東雲絵名",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -13278,6 +13518,7 @@
     "src": "images/ena/149_093_05_019_2.webp",
     "character": "東雲絵名",
     "title": "瑞希四箱 - ボク達の生存逃走",
+	"star": "s2n",
     "description": "#雨傘",
     "main": [],
     "tags": [
@@ -13292,6 +13533,7 @@
     "src": "images/saki/150_bd3_01_002_2.webp",
     "character": "天馬咲希",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -13408,6 +13650,7 @@
     "src": "images/nene/151_094_05_015_2.webp",
     "character": "草薙寧々",
     "title": "遥二混 - 船出の前のワンデイトリップ",
+	"star": "s2n",
     "description": "#水手",
     "main": [],
     "tags": [
@@ -13421,6 +13664,7 @@
     "src": "images/tsukasa/152_bd3_01_013_2.webp",
     "character": "天馬司",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -13553,6 +13797,7 @@
     "src": "images/tsukasa/153_095_05_013_2.webp",
     "character": "天馬司",
     "title": "寧々四箱 - カナリアは窮境に歌う",
+	"star": "s2n",
     "description": "#箱庭 #金絲雀",
     "main": [],
     "tags": [
@@ -13568,6 +13813,7 @@
     "src": "images/toya/154_bd3_01_012_2.webp",
     "character": "青柳冬弥",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -13700,6 +13946,7 @@
     "src": "images/mizuki/155_096_05_020_2.webp",
     "character": "暁山瑞希",
     "title": "穂波二混 - 隣に立つ、優しいあなたへ",
+	"star": "s2n",
     "description": "#婚活",
     "main": [],
     "tags": [
@@ -13819,6 +14066,7 @@
     "src": "images/kohane/156_097_05_009_2.webp",
     "character": "小豆澤こはね",
     "title": "杏四箱 - Light Up the Fire",
+	"star": "s2n",
     "description": "#下剋上 #葬禮",
     "main": [],
     "tags": [
@@ -13928,6 +14176,7 @@
     "src": "images/haruka/157_098_05_006_2.webp",
     "character": "桐谷遥",
     "title": "みのり四箱 - STEP by STEP!",
+	"star": "s2n",
     "description": "#寶石",
     "main": [],
     "tags": [
@@ -13940,6 +14189,7 @@
     "src": "images/rui/158_bd3_01_016_2.webp",
     "character": "神代類",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -14110,6 +14360,7 @@
     "src": "images/airi/160_099_05_007_2.webp",
     "character": "桃井愛莉",
     "title": "類二混 - 一期一会な百鬼夜行！？",
+	"star": "s2n",
     "description": "#百鬼",
     "main": [],
     "tags": [
@@ -14220,6 +14471,7 @@
     "src": "images/luka/161_100_05_024_2.webp",
     "character": "巡音ルカ",
     "title": "まふゆ四箱 - 仮面の私にさよならを",
+	"star": "s2n",
     "description": "#演劇",
     "main": [],
     "tags": [
@@ -14232,6 +14484,7 @@
     "src": "images/nene/162_bd3_01_015_2.webp",
     "character": "草薙寧々",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -14348,6 +14601,7 @@
     "src": "images/saki/163_101_05_002_2.webp",
     "character": "天馬咲希",
     "title": "一歌四箱 - つなぐ、星の歌",
+	"star": "s2n",
     "description": "#星繫",
     "main": [],
     "tags": [
@@ -14361,6 +14615,7 @@
     "src": "images/an/164_bd3_01_010_2.webp",
     "character": "白石杏",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -14477,6 +14732,7 @@
     "src": "images/emu/165_102_05_014_2.webp",
     "character": "鳳えむ",
     "title": "愛莉二混 - ドタバタcafe ●REC!!",
+	"star": "s2n",
     "description": "#快餐",
     "main": [],
     "tags": [
@@ -14594,6 +14850,7 @@
     "src": "images/miku/166_103_05_021_2.webp",
     "character": "初音ミク",
     "title": "こはね四箱 - On Your Feet",
+	"star": "s2n",
     "description": "#噴漆",
     "main": [],
     "tags": [
@@ -14607,6 +14864,7 @@
     "src": "images/ichika/167_bd3_01_001_2.webp",
     "character": "星乃一歌",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -14735,6 +14993,7 @@
     "src": "images/tsukasa/168_104_05_013_2.webp",
     "character": "天馬司",
     "title": "えむ四箱 - あたしたちのハッピーエンド",
+	"star": "s2n",
     "description": "#冒險家",
     "main": [],
     "tags": [
@@ -14750,6 +15009,7 @@
     "src": "images/mizuki/169_bd3_01_020_2.webp",
     "character": "暁山瑞希",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -14761,7 +15021,8 @@
   {
     "src": "images/miku/170_bd3_01_021_2.webp",
     "character": "初音ミク",
-    "title": "Happy Birthday!!2023",
+    "title": "Happy Anniversary!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -14894,6 +15155,7 @@
     "src": "images/kaito/171_105_06_026_2.webp",
     "character": "KAITO",
     "title": "ミク三混 - セカイに響け！Your Song",
+	"star": "s2n",
     "description": "#交響樂",
     "main": [],
     "tags": [
@@ -14906,6 +15168,7 @@
     "src": "images/emu/172_bd3_01_014_2.webp",
     "character": "鳳えむ",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -15014,6 +15277,7 @@
     "src": "images/airi/173_106_05_007_2.webp",
     "character": "桃井愛莉",
     "title": "咲希二混 - 君と紡ぐPrecious memories",
+	"star": "s2n",
     "description": "#宮女 #青春相冊",
     "main": [],
     "tags": [
@@ -15132,6 +15396,7 @@
     "src": "images/akito/174_107_05_011_2.webp",
     "character": "東雲彰人",
     "title": "杏二混 - Let's study hard!",
+	"star": "s2n",
     "description": "#補習",
     "main": [],
     "tags": [
@@ -15146,6 +15411,7 @@
     "src": "images/ichika/175_bnw_01_001_2.webp",
     "character": "星乃一歌",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15158,6 +15424,7 @@
     "src": "images/saki/175_bnw_02_002_2.webp",
     "character": "天馬咲希",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15170,6 +15437,7 @@
     "src": "images/honami/175_bnw_03_003_2.webp",
     "character": "望月穂波",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15182,6 +15450,7 @@
     "src": "images/shiho/175_bnw_04_004_2.webp",
     "character": "日野森志歩",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15194,6 +15463,7 @@
     "src": "images/minori/175_bnw_05_005_2.webp",
     "character": "花里みのり",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15206,6 +15476,7 @@
     "src": "images/haruka/175_bnw_06_006_2.webp",
     "character": "桐谷遥",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15218,6 +15489,7 @@
     "src": "images/airi/175_bnw_07_007_2.webp",
     "character": "桃井愛莉",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15230,6 +15502,7 @@
     "src": "images/shizuku/175_bnw_08_008_2.webp",
     "character": "日野森雫",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15242,6 +15515,7 @@
     "src": "images/kohane/175_bnw_09_009_2.webp",
     "character": "小豆澤こはね",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15254,6 +15528,7 @@
     "src": "images/an/175_bnw_10_010_2.webp",
     "character": "白石杏",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15266,6 +15541,7 @@
     "src": "images/akito/175_bnw_11_011_2.webp",
     "character": "東雲彰人",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15278,6 +15554,7 @@
     "src": "images/toya/175_bnw_12_012_2.webp",
     "character": "青柳冬弥",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15290,6 +15567,7 @@
     "src": "images/tsukasa/175_bnw_13_013_2.webp",
     "character": "天馬司",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15302,6 +15580,7 @@
     "src": "images/emu/175_bnw_14_014_2.webp",
     "character": "鳳えむ",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15314,6 +15593,7 @@
     "src": "images/nene/175_bnw_15_015_2.webp",
     "character": "草薙寧々",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15326,6 +15606,7 @@
     "src": "images/rui/175_bnw_16_016_2.webp",
     "character": "神代類",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15338,6 +15619,7 @@
     "src": "images/kanade/175_bnw_17_017_2.webp",
     "character": "宵崎奏",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15350,6 +15632,7 @@
     "src": "images/mafuyu/175_bnw_18_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15362,6 +15645,7 @@
     "src": "images/ena/175_bnw_19_019_2.webp",
     "character": "東雲絵名",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15374,6 +15658,7 @@
     "src": "images/mizuki/175_bnw_20_020_2.webp",
     "character": "暁山瑞希",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15386,6 +15671,7 @@
     "src": "images/miku/175_bnw_21_021_2.webp",
     "character": "初音ミク",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15398,6 +15684,7 @@
     "src": "images/miku/175_bnw_22_021_2.webp",
     "character": "初音ミク",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15410,6 +15697,7 @@
     "src": "images/miku/175_bnw_23_021_2.webp",
     "character": "初音ミク",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15422,6 +15710,7 @@
     "src": "images/miku/175_bnw_24_021_2.webp",
     "character": "初音ミク",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15434,6 +15723,7 @@
     "src": "images/miku/175_bnw_25_021_2.webp",
     "character": "初音ミク",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15446,6 +15736,7 @@
     "src": "images/miku/175_bnw_26_021_2.webp",
     "character": "初音ミク",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15458,6 +15749,7 @@
     "src": "images/rin/175_bnw_27_022_2.webp",
     "character": "鏡音リン",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15470,6 +15762,7 @@
     "src": "images/rin/175_bnw_28_022_2.webp",
     "character": "鏡音リン",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15482,6 +15775,7 @@
     "src": "images/len/175_bnw_29_023_2.webp",
     "character": "鏡音レン",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15494,6 +15788,7 @@
     "src": "images/len/175_bnw_30_023_2.webp",
     "character": "鏡音レン",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15506,6 +15801,7 @@
     "src": "images/luka/175_bnw_31_024_2.webp",
     "character": "巡音ルカ",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15518,6 +15814,7 @@
     "src": "images/luka/175_bnw_32_024_2.webp",
     "character": "巡音ルカ",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15530,6 +15827,7 @@
     "src": "images/meiko/175_bnw_33_025_2.webp",
     "character": "MEIKO",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15542,6 +15840,7 @@
     "src": "images/meiko/175_bnw_34_025_2.webp",
     "character": "MEIKO",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15554,6 +15853,7 @@
     "src": "images/kaito/175_bnw_35_026_2.webp",
     "character": "KAITO",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15566,6 +15866,7 @@
     "src": "images/kaito/175_bnw_36_026_2.webp",
     "character": "KAITO",
     "title": "Brand New Style",
+	"star": "s2n",
     "description": "#新團服 #BNW",
     "main": [],
     "tags": [
@@ -15738,6 +16039,7 @@
     "src": "images/haruka/178_bd3_01_006_2.webp",
     "character": "桐谷遥",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -15854,6 +16156,7 @@
     "src": "images/an/179_109_05_010_2.webp",
     "character": "白石杏",
     "title": "彰人四箱 - BURN MY SOUL",
+	"star": "s2n",
     "description": "#鐵道 #crazy",
     "main": [],
     "tags": [
@@ -15980,6 +16283,7 @@
     "src": "images/saki/180_110_05_002_2.webp",
     "character": "天馬咲希",
     "title": "志歩四箱 - Stick to your faith",
+	"star": "s2n",
     "description": "#目的 #蒼穹",
     "main": [],
     "tags": [
@@ -15994,6 +16298,7 @@
     "src": "images/honami/181_bd3_01_003_2.webp",
     "character": "望月穂波",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -16102,6 +16407,7 @@
     "src": "images/minori/182_111_05_005_2.webp",
     "character": "花里みのり",
     "title": "雫四箱 - その手導くぬくもりは",
+	"star": "s2n",
     "description": "#楓葉 #hug",
     "main": [],
     "tags": [
@@ -16113,7 +16419,8 @@
   {
     "src": "images/meiko/183_bd3_01_025_2.webp",
     "character": "MEIKO",
-    "title": "Happy Birthday!!2023",
+    "title": "Happy Anniversary!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -16214,6 +16521,7 @@
     "src": "images/miku/184_112_05_021_2.webp",
     "character": "初音ミク",
     "title": "World Link - 水底に影を探して",
+	"star": "s2n",
     "description": "#水底 #WL",
     "main": [],
     "tags": [
@@ -16225,6 +16533,7 @@
     "src": "images/akito/185_bd3_01_011_2.webp",
     "character": "東雲彰人",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -16333,6 +16642,7 @@
     "src": "images/nene/186_113_05_015_2.webp",
     "character": "草薙寧々",
     "title": "司四箱 - 君が主役の物語を",
+	"star": "s2n",
     "description": "#燈絲",
     "main": [],
     "tags": [
@@ -16451,6 +16761,7 @@
     "src": "images/toya/187_114_05_012_2.webp",
     "character": "青柳冬弥",
     "title": "寧々二混 - 最高のクランクアップ！",
+	"star": "s2n",
     "description": "#廚師",
     "main": [],
     "tags": [
@@ -16596,6 +16907,7 @@
     "src": "images/ichika/188_san_07_001_2.webp",
     "character": "星乃一歌",
     "title": "三麗鷗合作 - feat.ディアダニエル",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16606,6 +16918,7 @@
     "src": "images/honami/188_san_08_003_2.webp",
     "character": "望月穂波",
     "title": "三麗鷗合作 - feat.マロンクリーム",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16616,6 +16929,7 @@
     "src": "images/shiho/188_san_09_004_2.webp",
     "character": "日野森志歩",
     "title": "三麗鷗合作 - feat.シュガーバニーズ",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16626,6 +16940,7 @@
     "src": "images/minori/188_san_10_005_2.webp",
     "character": "花里みのり",
     "title": "三麗鷗合作 - feat.KIRIMIちゃん.",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16636,6 +16951,7 @@
     "src": "images/haruka/188_san_11_006_2.webp",
     "character": "桐谷遥",
     "title": "三麗鷗合作 - feat.タキシードサム",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16646,6 +16962,7 @@
     "src": "images/shizuku/188_san_12_008_2.webp",
     "character": "日野森雫",
     "title": "三麗鷗合作 - feat.ウィッシュミーメル",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16656,6 +16973,7 @@
     "src": "images/kohane/188_san_13_009_2.webp",
     "character": "小豆澤こはね",
     "title": "三麗鷗合作 - feat.コロコロクリリン",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16666,6 +16984,7 @@
     "src": "images/an/188_san_14_010_2.webp",
     "character": "白石杏",
     "title": "三麗鷗合作 - feat.ルロロマニック",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16676,6 +16995,7 @@
     "src": "images/akito/188_san_15_011_2.webp",
     "character": "東雲彰人",
     "title": "三麗鷗合作 - feat.バッドばつ丸",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16686,6 +17006,7 @@
     "src": "images/tsukasa/188_san_16_013_2.webp",
     "character": "天馬司",
     "title": "三麗鷗合作 - feat.けろけろけろっぴ",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16696,6 +17017,7 @@
     "src": "images/nene/188_san_17_015_2.webp",
     "character": "草薙寧々",
     "title": "三麗鷗合作 - feat.ウサハナ",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16706,6 +17028,7 @@
     "src": "images/rui/188_san_18_016_2.webp",
     "character": "神代類",
     "title": "三麗鷗合作 - feat.ハンギョドン",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16716,6 +17039,7 @@
     "src": "images/kanade/188_san_19_017_2.webp",
     "character": "宵崎奏",
     "title": "三麗鷗合作 - feat.まるもふびより",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16726,6 +17050,7 @@
     "src": "images/mafuyu/188_san_20_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "三麗鷗合作 - feat.こぎみゅん",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16736,6 +17061,7 @@
     "src": "images/mizuki/188_san_21_020_2.webp",
     "character": "暁山瑞希",
     "title": "三麗鷗合作 - feat.ぼんぼんりぼん",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16746,6 +17072,7 @@
     "src": "images/rin/188_san_22_022_2.webp",
     "character": "鏡音リン",
     "title": "三麗鷗合作 - feat.リトルツインスターズ",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16756,6 +17083,7 @@
     "src": "images/len/188_san_23_023_2.webp",
     "character": "鏡音レン",
     "title": "三麗鷗合作 - feat.リトルツインスターズ",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16766,6 +17094,7 @@
     "src": "images/luka/188_san_24_024_2.webp",
     "character": "巡音ルカ",
     "title": "三麗鷗合作 - feat.マイスウィートピアノ",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16776,6 +17105,7 @@
     "src": "images/meiko/188_san_25_025_2.webp",
     "character": "MEIKO",
     "title": "三麗鷗合作 - feat.ニャニィニュニェニョン",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16786,6 +17116,7 @@
     "src": "images/kaito/188_san_26_026_2.webp",
     "character": "KAITO",
     "title": "三麗鷗合作 - feat.あひるのペックル",
+	"star": "s2n",
     "description": "#三麗鷗",
     "main": [],
     "tags": [
@@ -16796,6 +17127,7 @@
     "src": "images/shizuku/189_bd3_01_008_2.webp",
     "character": "日野森雫",
     "title": "Happy Birthday!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -16912,6 +17244,7 @@
     "src": "images/haruka/190_115_05_006_2.webp",
     "character": "桐谷遥",
     "title": "みのり二混 - あっちこっち飼育員体験！",
+	"star": "s2n",
     "description": "#飼養員",
     "main": [],
     "tags": [
@@ -17014,6 +17347,7 @@
     "src": "images/rin/191_116_05_022_2.webp",
     "character": "鏡音リン",
     "title": "奏四箱 - あの日、奏でた音色を",
+	"star": "s2n",
     "description": "#情熱",
     "main": [],
     "tags": [
@@ -17024,7 +17358,8 @@
   {
     "src": "images/rin/192_bd3_01_022_2.webp",
     "character": "鏡音リン",
-    "title": "Happy Birthday!!2023",
+    "title": "Happy Anniversary!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -17036,7 +17371,8 @@
   {
     "src": "images/len/193_bd3_01_023_2.webp",
     "character": "鏡音レン",
-    "title": "Happy Birthday!!2023",
+    "title": "Happy Anniversary!!2023",
+	"star": "bd",
     "description": "#生日 #2023生日",
     "main": [],
     "tags": [
@@ -17178,6 +17514,7 @@
     "src": "images/saki/195_117_05_002_2.webp",
     "character": "天馬咲希",
     "title": "瑞希二混 - 変わらぬあたたかさの隣で",
+	"star": "s2n",
     "description": "#新年",
     "main": [],
     "tags": [
@@ -17189,6 +17526,7 @@
     "src": "images/shiho/196_bd4_01_004_2.webp",
     "character": "日野森志歩",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -17289,6 +17627,7 @@
     "src": "images/len/197_118_05_023_2.webp",
     "character": "鏡音レン",
     "title": "World Link - BREAK DOWN THE WALL",
+	"star": "s2n",
     "description": "#WL #破牆",
     "main": [],
     "tags": [
@@ -17300,6 +17639,7 @@
     "src": "images/meiko/197_118_06_025_2.webp",
     "character": "MEIKO",
     "title": "World Link - BREAK DOWN THE WALL",
+	"star": "s2n",
     "description": "#WL #破牆",
     "main": [],
     "tags": [
@@ -17415,6 +17755,7 @@
     "src": "images/emu/198_119_05_014_2.webp",
     "character": "鳳えむ",
     "title": "類四箱 - 逆光のレンズフレア",
+	"star": "s2n",
     "description": "#賽博",
     "main": [],
     "tags": [
@@ -17428,6 +17769,7 @@
     "src": "images/mafuyu/199_bd4_01_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -17439,7 +17781,8 @@
   {
     "src": "images/luka/200_bd4_01_024_2.webp",
     "character": "巡音ルカ",
-    "title": "Happy Birthday!!2024",
+    "title": "Happy Anniversary!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -17556,6 +17899,7 @@
     "src": "images/luka/201_120_05_024_2.webp",
     "character": "巡音ルカ",
     "title": "こはね三混 - Take the Best Shot!",
+	"star": "s2n",
     "description": "#情人節",
     "main": [],
     "tags": [
@@ -17569,6 +17913,7 @@
     "src": "images/kanade/202_bd4_01_017_2.webp",
     "character": "宵崎奏",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -17709,6 +18054,7 @@
     "src": "images/saki/203_121_05_002_2.webp",
     "character": "天馬咲希",
     "title": "穂波四箱 - 導く勇気、優しさを胸に",
+	"star": "s2n",
     "description": "#軒轅",
     "main": [],
     "tags": [
@@ -17724,7 +18070,8 @@
   {
     "src": "images/kaito/204_bd4_01_026_2.webp",
     "character": "KAITO",
-    "title": "Happy Birthday!!2024",
+    "title": "Happy Anniversary!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -17841,6 +18188,7 @@
     "src": "images/shizuku/205_122_05_008_2.webp",
     "character": "日野森雫",
     "title": "みのり五箱 - 刻まれた傷は、やがて",
+	"star": "s2n",
     "description": "#雲端 #氣球",
     "main": [],
     "tags": [
@@ -17958,6 +18306,7 @@
     "src": "images/airi/206_123_05_007_2.webp",
     "character": "桃井愛莉",
     "title": "奏二混 - リラックスティータイム",
+	"star": "s2n",
     "description": "#白情 #騎士",
     "main": [],
     "tags": [
@@ -17971,6 +18320,7 @@
     "src": "images/kohane/207_bd4_01_009_2.webp",
     "character": "小豆澤こはね",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -18071,6 +18421,7 @@
     "src": "images/kaito/208_124_05_026_2.webp",
     "character": "KAITO",
     "title": "World Link - 星を目指して、ヨーソロー！",
+	"star": "s2n",
     "description": "#WL",
     "main": [],
     "tags": [
@@ -18082,6 +18433,7 @@
     "src": "images/airi/209_bd4_01_007_2.webp",
     "character": "桃井愛莉",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -18198,6 +18550,7 @@
     "src": "images/kohane/210_125_05_009_2.webp",
     "character": "小豆澤こはね",
     "title": "冬弥四箱 - The first concerto",
+	"star": "s2n",
     "description": "#blender",
     "main": [],
     "tags": [
@@ -18359,6 +18712,7 @@
     "src": "images/rui/212_126_05_016_2.webp",
     "character": "神代類",
     "title": "彰人二混 - Rise as ONE!",
+	"star": "s2n",
     "description": "#狗狗",
     "main": [],
     "tags": [
@@ -18474,6 +18828,7 @@
     "src": "images/mizuki/213_127_05_020_2.webp",
     "character": "暁山瑞希",
     "title": "絵名四箱 - Knowing the Unseen",
+	"star": "s2n",
     "description": "#我是雨",
     "main": [],
     "tags": [
@@ -18487,6 +18842,7 @@
     "src": "images/minori/214_bd4_01_005_2.webp",
     "character": "花里みのり",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -18595,6 +18951,7 @@
     "src": "images/honami/215_128_05_003_2.webp",
     "character": "望月穂波",
     "title": "咲希五箱 - Parallel Harmonies",
+	"star": "s2n",
     "description": "#若即若離",
     "main": [],
     "tags": [
@@ -18607,6 +18964,7 @@
     "src": "images/ena/216_bd4_01_019_2.webp",
     "character": "東雲絵名",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -18707,6 +19065,7 @@
     "src": "images/akito/217_129_05_011_2.webp",
     "character": "東雲彰人",
     "title": "杏五箱 - Whip the wimp girl!!",
+	"star": "s2n",
     "description": "#烈火",
     "main": [],
     "tags": [
@@ -18718,6 +19077,7 @@
     "src": "images/saki/218_bd4_01_002_2.webp",
     "character": "天馬咲希",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -18810,6 +19170,7 @@
     "src": "images/rin/219_130_05_022_2.webp",
     "character": "鏡音リン",
     "title": "World Link - いつか花咲くステージへ",
+	"star": "s2n",
     "description": "#WL",
     "main": [],
     "tags": [
@@ -18820,6 +19181,7 @@
     "src": "images/tsukasa/220_bd4_01_013_2.webp",
     "character": "天馬司",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -18968,6 +19330,7 @@
     "src": "images/nene/221_131_05_015_2.webp",
     "character": "草薙寧々",
     "title": "えむ五箱 - perspective for smile",
+	"star": "s2n",
     "description": "#外星 #劍道",
     "main": [],
     "tags": [
@@ -18985,6 +19348,7 @@
     "src": "images/toya/222_bd4_01_012_2.webp",
     "character": "青柳冬弥",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -19117,6 +19481,7 @@
     "src": "images/ena/223_132_05_019_2.webp",
     "character": "東雲絵名",
     "title": "みのり三混 - みんなで配信♡WEDDING LIVE!",
+	"star": "s2n",
     "description": "#婚活",
     "main": [],
     "tags": [
@@ -19236,6 +19601,7 @@
     "src": "images/len/224_133_05_023_2.webp",
     "character": "鏡音レン",
     "title": "遥四箱 - Lead to shine more",
+	"star": "s2n",
     "description": "#超新星",
     "main": [],
     "tags": [
@@ -19354,6 +19720,7 @@
     "src": "images/kanade/225_134_05_017_2.webp",
     "character": "宵崎奏",
     "title": "まふゆ五箱 - 灯を手繰りよせて",
+	"star": "s2n",
     "description": "#紫化",
     "main": [],
     "tags": [
@@ -19367,6 +19734,7 @@
     "src": "images/rui/226_bd4_01_016_2.webp",
     "character": "神代類",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -19523,6 +19891,7 @@
     "src": "images/toya/228_135_05_012_2.webp",
     "character": "青柳冬弥",
     "title": "こはね五箱 - OVER RAD SQUAD!!",
+	"star": "s2n",
     "description": "#ULTRA C",
     "main": [],
     "tags": [
@@ -19624,6 +19993,7 @@
     "src": "images/nene/229_136_05_015_2.webp",
     "character": "草薙寧々",
     "title": "司五箱 - お縄を頂戴！？天馬捕物帳",
+	"star": "s2n",
     "description": "#成敗",
     "main": [],
     "tags": [
@@ -19715,6 +20085,7 @@
     "src": "images/luka/230_137_05_024_2.webp",
     "character": "巡音ルカ",
     "title": "World Link - あの日見た夜空は、いつかの未来へ",
+	"star": "s2n",
     "description": "#WL",
     "main": [],
     "tags": [
@@ -19725,6 +20096,7 @@
     "src": "images/nene/231_bd4_01_015_2.webp",
     "character": "草薙寧々",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -19737,6 +20109,7 @@
     "src": "images/an/232_bd4_01_010_2.webp",
     "character": "白石杏",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -19837,6 +20210,7 @@
     "src": "images/minori/233_138_05_005_2.webp",
     "character": "花里みのり",
     "title": "愛莉五箱 - Chase my IDEAL IDOL",
+	"star": "s2n",
     "description": "#直播",
     "main": [],
     "tags": [
@@ -19952,6 +20326,7 @@
     "src": "images/saki/234_139_05_002_2.webp",
     "character": "天馬咲希",
     "title": "冬弥三混 - 鳴らせビューティフルサウンド！",
+	"star": "s2n",
     "description": "#水族館",
     "main": [],
     "tags": [
@@ -19965,6 +20340,7 @@
     "src": "images/ichika/235_bd4_01_001_2.webp",
     "character": "星乃一歌",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -20097,6 +20473,7 @@
     "src": "images/mizuki/237_bd4_01_020_2.webp",
     "character": "暁山瑞希",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -20108,7 +20485,8 @@
   {
     "src": "images/miku/238_bd4_01_021_2.webp",
     "character": "初音ミク",
-    "title": "Happy Birthday!!2024",
+    "title": "Happy Anniversary!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -20225,6 +20603,7 @@
     "src": "images/mizuki/239_141_05_020_2.webp",
     "character": "暁山瑞希",
     "title": "えむ二混 - わんだほら～！？な肝だめし！",
+	"star": "s2n",
     "description": "#鬼屋 #試膽",
     "main": [],
     "tags": [
@@ -20238,6 +20617,7 @@
     "src": "images/emu/240_bd4_01_014_2.webp",
     "character": "鳳えむ",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -20370,6 +20750,7 @@
     "src": "images/an/241_142_05_010_2.webp",
     "character": "白石杏",
     "title": "遥三混 - 鍛えてFLY!Muscle Training!",
+	"star": "s2n",
     "description": "#運動",
     "main": [],
     "tags": [
@@ -20477,6 +20858,7 @@
     "src": "images/shiho/242_143_05_004_2.webp",
     "character": "日野森志歩",
     "title": "一歌五箱 - This moment with you!",
+	"star": "s2n",
     "description": "#水色",
     "main": [],
     "tags": [
@@ -20658,6 +21040,7 @@
     "src": "images/haruka/245_bd4_01_006_2.webp",
     "character": "桐谷遥",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -20774,6 +21157,7 @@
     "src": "images/kanade/246_145_05_017_2.webp",
     "character": "宵崎奏",
     "title": "瑞希五箱 - 荊棘の道は何処へ",
+	"star": "s2n",
     "description": "#荊棘",
     "main": [],
     "tags": [
@@ -20883,6 +21267,7 @@
     "src": "images/toya/247_146_05_012_2.webp",
     "character": "青柳冬弥",
     "title": "彰人五箱 - Rekindle the flame",
+	"star": "s2n",
     "description": "#燃料",
     "main": [],
     "tags": [
@@ -20895,6 +21280,7 @@
     "src": "images/honami/248_bd4_01_003_2.webp",
     "character": "望月穂波",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -21011,6 +21397,7 @@
     "src": "images/shiho/249_147_05_004_2.webp",
     "character": "日野森志歩",
     "title": "咲希六箱 - Happy Enjoy Music!",
+	"star": "s2n",
     "description": "#英倫 #咖啡廳",
     "main": [],
     "tags": [
@@ -21023,7 +21410,8 @@
   {
     "src": "images/meiko/250_bd4_01_025_2.webp",
     "character": "MEIKO",
-    "title": "Happy Birthday!!2024",
+    "title": "Happy Anniversary!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -21140,6 +21528,7 @@
     "src": "images/tsukasa/251_148_05_013_2.webp",
     "character": "天馬司",
     "title": "志歩三混 - また、木の葉の色づく頃に",
+	"star": "s2n",
     "description": "#楓葉 #茶室",
     "main": [],
     "tags": [
@@ -21153,6 +21542,7 @@
     "src": "images/akito/252_bd4_01_011_2.webp",
     "character": "東雲彰人",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -21261,6 +21651,7 @@
     "src": "images/rui/253_149_05_016_2.webp",
     "character": "神代類",
     "title": "寧々五箱 - The Power Of Regret",
+	"star": "s2n",
     "description": "#騎士",
     "main": [],
     "tags": [
@@ -21369,6 +21760,7 @@
     "src": "images/mafuyu/254_150_05_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "絵名五箱 - 傷だらけの手で、私達は",
+	"star": "s2n",
     "description": "#余花",
     "main": [],
     "tags": [
@@ -21381,6 +21773,7 @@
     "src": "images/shizuku/255_bd4_01_008_2.webp",
     "character": "日野森雫",
     "title": "Happy Birthday!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -21481,6 +21874,7 @@
     "src": "images/airi/256_151_05_007_2.webp",
     "character": "桃井愛莉",
     "title": "雫五箱 - Grow glorious glow",
+	"star": "s2n",
     "description": "#賽車",
     "main": [],
     "tags": [
@@ -21597,6 +21991,7 @@
     "src": "images/emu/257_152_05_014_2.webp",
     "character": "鳳えむ",
     "title": "類三混 - Special present for YOU!",
+	"star": "s2n",
     "description": "#聖誕",
     "main": [],
     "tags": [
@@ -21609,7 +22004,8 @@
   {
     "src": "images/rin/258_bd4_01_022_2.webp",
     "character": "鏡音リン",
-    "title": "Happy Birthday!!2024",
+    "title": "Happy Anniversary!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -21621,7 +22017,8 @@
   {
     "src": "images/len/259_bd4_01_023_2.webp",
     "character": "鏡音レン",
-    "title": "Happy Birthday!!2024",
+    "title": "Happy Anniversary!!2024",
+	"star": "bd",
     "description": "#生日 #2024生日",
     "main": [],
     "tags": [
@@ -21762,6 +22159,7 @@
     "src": "images/ena/261_153_05_019_2.webp",
     "character": "東雲絵名",
     "title": "彰人三混 - Unfading wishing",
+	"star": "s2n",
     "description": "#新年",
     "main": [],
     "tags": [
@@ -21773,6 +22171,7 @@
     "src": "images/shiho/262_bd5_01_004_2.webp",
     "character": "日野森志歩",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -21897,6 +22296,7 @@
     "src": "images/an/263_154_05_010_2.webp",
     "character": "白石杏",
     "title": "冬弥五箱 - Time to take off",
+	"star": "s2n",
     "description": "#避風港",
     "main": [],
     "tags": [
@@ -21911,6 +22311,7 @@
     "src": "images/ichika/264_cnm_01_001_2.webp",
     "character": "星乃一歌",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -21924,6 +22325,7 @@
     "src": "images/saki/264_cnm_02_002_2.webp",
     "character": "天馬咲希",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -21937,6 +22339,7 @@
     "src": "images/honami/264_cnm_03_003_2.webp",
     "character": "望月穂波",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -21950,6 +22353,7 @@
     "src": "images/shiho/264_cnm_04_004_2.webp",
     "character": "日野森志歩",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -21963,6 +22367,7 @@
     "src": "images/minori/264_cnm_05_005_2.webp",
     "character": "花里みのり",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -21976,6 +22381,7 @@
     "src": "images/haruka/264_cnm_06_006_2.webp",
     "character": "桐谷遥",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -21989,6 +22395,7 @@
     "src": "images/airi/264_cnm_07_007_2.webp",
     "character": "桃井愛莉",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22002,6 +22409,7 @@
     "src": "images/shizuku/264_cnm_08_008_2.webp",
     "character": "日野森雫",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22015,6 +22423,7 @@
     "src": "images/kohane/264_cnm_09_009_2.webp",
     "character": "小豆澤こはね",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22028,6 +22437,7 @@
     "src": "images/an/264_cnm_10_010_2.webp",
     "character": "白石杏",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22041,6 +22451,7 @@
     "src": "images/akito/264_cnm_11_011_2.webp",
     "character": "東雲彰人",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22054,6 +22465,7 @@
     "src": "images/toya/264_cnm_12_012_2.webp",
     "character": "青柳冬弥",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22067,6 +22479,7 @@
     "src": "images/tsukasa/264_cnm_13_013_2.webp",
     "character": "天馬司",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22080,6 +22493,7 @@
     "src": "images/emu/264_cnm_14_014_2.webp",
     "character": "鳳えむ",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22093,6 +22507,7 @@
     "src": "images/nene/264_cnm_15_015_2.webp",
     "character": "草薙寧々",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22106,6 +22521,7 @@
     "src": "images/rui/264_cnm_16_016_2.webp",
     "character": "神代類",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22119,6 +22535,7 @@
     "src": "images/kanade/264_cnm_17_017_2.webp",
     "character": "宵崎奏",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22132,6 +22549,7 @@
     "src": "images/mafuyu/264_cnm_18_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22145,6 +22563,7 @@
     "src": "images/ena/264_cnm_19_019_2.webp",
     "character": "東雲絵名",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22158,6 +22577,7 @@
     "src": "images/mizuki/264_cnm_20_020_2.webp",
     "character": "暁山瑞希",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22171,6 +22591,7 @@
     "src": "images/miku/264_cnm_21_021_2.webp",
     "character": "初音ミク",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22184,6 +22605,7 @@
     "src": "images/rin/264_cnm_22_022_2.webp",
     "character": "鏡音リン",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22197,6 +22619,7 @@
     "src": "images/len/264_cnm_23_023_2.webp",
     "character": "鏡音レン",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22210,6 +22633,7 @@
     "src": "images/luka/264_cnm_24_024_2.webp",
     "character": "巡音ルカ",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22223,6 +22647,7 @@
     "src": "images/meiko/264_cnm_25_025_2.webp",
     "character": "MEIKO",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22236,6 +22661,7 @@
     "src": "images/kaito/264_cnm_26_026_2.webp",
     "character": "KAITO",
     "title": "Let's enjoy the movie!",
+	"star": "s2n",
     "description": "#劇場版",
     "main": [],
     "tags": [
@@ -22379,6 +22805,7 @@
     "src": "images/ichika/266_155_05_001_2.webp",
     "character": "星乃一歌",
     "title": "奏三混 - Show your shine",
+	"star": "s2n",
     "description": "#洋娃娃 #柔光",
     "main": [],
     "tags": [
@@ -22392,6 +22819,7 @@
     "src": "images/mafuyu/267_bd5_01_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -22403,7 +22831,8 @@
   {
     "src": "images/luka/268_bd5_01_024_2.webp",
     "character": "巡音ルカ",
-    "title": "Happy Birthday!!2025",
+    "title": "Happy Anniversary!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -22512,6 +22941,7 @@
     "src": "images/haruka/269_156_05_006_2.webp",
     "character": "桐谷遥",
     "title": "雫三混 - このひと針に想いを込めて",
+	"star": "s2n",
     "description": "#情人節",
     "main": [],
     "tags": [
@@ -22524,6 +22954,7 @@
     "src": "images/kanade/270_bd5_01_017_2.webp",
     "character": "宵崎奏",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -22632,6 +23063,7 @@
     "src": "images/airi/271_157_05_007_2.webp",
     "character": "桃井愛莉",
     "title": "遥五箱 - Rise and Strive",
+	"star": "s2n",
     "description": "#Anti You",
     "main": [],
     "tags": [
@@ -22748,6 +23180,7 @@
     "src": "images/len/272_est_05_023_2.webp",
     "character": "鏡音レン",
     "title": "偶像夢幻祭合作 - はじけるアイドルスタイル",
+	"star": "s2n",
     "description": "#偶夢 #合奏",
     "main": [],
     "tags": [
@@ -22761,6 +23194,7 @@
     "src": "images/kaito/272_est_06_026_2.webp",
     "character": "KAITO",
     "title": "偶像夢幻祭合作 - スマートアイドルスタイル",
+	"star": "s2n",
     "description": "#偶夢 #合奏",
     "main": [],
     "tags": [
@@ -22773,7 +23207,8 @@
   {
     "src": "images/kaito/273_bd5_01_026_2.webp",
     "character": "KAITO",
-    "title": "Happy Birthday!!2025",
+    "title": "Happy Anniversary!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -22790,6 +23225,7 @@
     "main": [],
     "tags": [
       "魔女",
+	  "女巫",
       "魔法師"
     ]
   },
@@ -22801,6 +23237,7 @@
     "main": [],
     "tags": [
       "魔女",
+	  "女巫",
       "魔法師"
     ]
   },
@@ -22812,6 +23249,7 @@
     "main": [],
     "tags": [
       "魔女",
+	  "女巫",
       "魔法師"
     ]
   },
@@ -22823,6 +23261,7 @@
     "main": [],
     "tags": [
       "魔女",
+	  "女巫",
       "魔法師"
     ]
   },
@@ -22834,6 +23273,7 @@
     "main": [],
     "tags": [
       "魔女",
+	  "女巫",
       "魔法師"
     ]
   },
@@ -22845,6 +23285,7 @@
     "main": [],
     "tags": [
       "魔女",
+	  "女巫",
       "魔法師"
     ]
   },
@@ -22856,6 +23297,7 @@
     "main": [],
     "tags": [
       "魔女",
+	  "女巫",
       "魔法師"
     ]
   },
@@ -22867,6 +23309,7 @@
     "main": [],
     "tags": [
       "魔女",
+	  "女巫",
       "魔法師"
     ]
   },
@@ -22874,10 +23317,12 @@
     "src": "images/rui/274_158_05_016_2.webp",
     "character": "神代類",
     "title": "穂波三混 - 昔日のRead-aloud",
+	"star": "s2n",
     "description": "#魔女 #魔法師",
     "main": [],
     "tags": [
       "魔女",
+	  "女巫",
       "魔法師"
     ]
   },
@@ -22981,6 +23426,7 @@
     "src": "images/meiko/275_159_05_025_2.webp",
     "character": "MEIKO",
     "title": "咲希三混 - Connect hearts message",
+	"star": "s2n",
     "description": "#白情 #靈獸",
     "main": [],
     "tags": [
@@ -22993,6 +23439,7 @@
     "src": "images/kohane/276_bd5_01_009_2.webp",
     "character": "小豆澤こはね",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -23101,6 +23548,7 @@
     "src": "images/minori/277_160_05_005_2.webp",
     "character": "花里みのり",
     "title": "司三混 - You are my HERO!!",
+	"star": "s2n",
     "description": "#貓貓",
     "main": [],
     "tags": [
@@ -23113,6 +23561,7 @@
     "src": "images/airi/278_bd5_01_007_2.webp",
     "character": "桃井愛莉",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -23221,6 +23670,7 @@
     "src": "images/mizuki/279_161_05_020_2.webp",
     "character": "暁山瑞希",
     "title": "奏五箱 - Unreliable Notes",
+	"star": "s2n",
     "description": "#DNA",
     "main": [],
     "tags": [
@@ -23393,6 +23843,7 @@
     "src": "images/rin/281_162_05_022_2.webp",
     "character": "鏡音リン",
     "title": "志歩五箱 - Find the dream view",
+	"star": "s2n",
     "description": "#樂器行 #Sympathy",
     "main": [],
     "tags": [
@@ -23496,6 +23947,7 @@
     "src": "images/minori/283_bd5_01_005_2.webp",
     "character": "花里みのり",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -23604,6 +24056,7 @@
     "src": "images/tsukasa/284_164_05_013_2.webp",
     "character": "天馬司",
     "title": "えむ六箱 - Choices for the future",
+	"star": "s2n",
     "description": "#時鐘",
     "main": [],
     "tags": [
@@ -23616,6 +24069,7 @@
     "src": "images/ena/285_bd5_01_019_2.webp",
     "character": "東雲絵名",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -23724,6 +24178,7 @@
     "src": "images/ena/286_165_05_019_2.webp",
     "character": "東雲絵名",
     "title": "まふゆ六箱 - そして、針は動き出す",
+	"star": "s2n",
     "description": "#虛無",
     "main": [],
     "tags": [
@@ -23736,6 +24191,7 @@
     "src": "images/saki/287_bd5_01_002_2.webp",
     "character": "天馬咲希",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -23846,6 +24302,7 @@
     "src": "images/tsukasa/290_bd5_01_013_2.webp",
     "character": "天馬司",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -23954,6 +24411,7 @@
     "src": "images/shizuku/291_167_05_008_2.webp",
     "character": "日野森雫",
     "title": "愛莉六箱 - Cheer with my Heart!",
+	"star": "s2n",
     "description": "#Eleventh #灰姑娘",
     "main": [],
     "tags": [
@@ -23966,6 +24424,7 @@
     "src": "images/toya/292_bd5_01_012_2.webp",
     "character": "青柳冬弥",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -24082,6 +24541,7 @@
     "src": "images/an/293_168_05_010_2.webp",
     "character": "白石杏",
     "title": "こはね六箱 - Aim higher and higher!",
+	"star": "s2n",
     "description": "#光線歌 #民族",
     "main": [],
     "tags": [
@@ -24183,6 +24643,7 @@
     "src": "images/rui/295_bd5_01_016_2.webp",
     "character": "神代類",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -24435,6 +24896,7 @@
     "src": "images/emu/298_171_05_014_2.webp",
     "character": "鳳えむ",
     "title": "類五箱 - Deeper and deeper",
+	"star": "s2n",
     "description": "#Eyelid #玩具工廠",
     "main": [],
     "tags": [
@@ -24545,6 +25007,7 @@
     "src": "images/meiko/299_172_05_025_2.webp",
     "character": "MEIKO",
     "title": "穂波五箱 - Unsteady, still steady step",
+	"star": "s2n",
     "description": "#透明",
     "main": [],
     "tags": [
@@ -24557,6 +25020,7 @@
     "src": "images/nene/300_bd5_01_015_2.webp",
     "character": "草薙寧々",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -24665,6 +25129,7 @@
     "src": "images/kaito/301_173_05_026_2.webp",
     "character": "KAITO",
     "title": "みのり六箱 - start rolling! stars' crossing",
+	"star": "s2n",
     "description": "#玩偶",
     "main": [],
     "tags": [
@@ -24677,6 +25142,7 @@
     "src": "images/an/302_bd5_01_010_2.webp",
     "character": "白石杏",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -24785,6 +25251,7 @@
     "src": "images/akito/303_174_05_011_2.webp",
     "character": "東雲彰人",
     "title": "杏六箱 - Competitive fire!",
+	"star": "s2n",
     "description": "#加速",
     "main": [],
     "tags": [
@@ -24885,6 +25352,7 @@
     "src": "images/ichika/305_bd5_01_001_2.webp",
     "character": "星乃一歌",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -25001,6 +25469,7 @@
     "src": "images/mafuyu/306_176_05_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "瑞希六箱 - ほどけぬ明日に手を伸ばして",
+	"star": "s2n",
     "description": "#裝飾 #雛菊",
     "main": [],
     "tags": [
@@ -25014,6 +25483,7 @@
     "src": "images/mizuki/307_bd5_01_020_2.webp",
     "character": "暁山瑞希",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -25138,6 +25608,7 @@
     "src": "images/nene/308_177_05_015_2.webp",
     "character": "草薙寧々",
     "title": "司六箱 - Deep Dark For Light",
+	"star": "s2n",
     "description": "#地獄 #黑幫",
     "main": [],
     "tags": [
@@ -25151,7 +25622,8 @@
   {
     "src": "images/miku/309_bd5_01_021_2.webp",
     "character": "初音ミク",
-    "title": "Happy Birthday!!2025",
+    "title": "Happy Anniversary!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -25296,6 +25768,7 @@
     "src": "images/emu/311_bd5_01_014_2.webp",
     "character": "鳳えむ",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -25412,6 +25885,7 @@
     "src": "images/meiko/312_tmk_05_025_2.webp",
     "character": "MEIKO",
     "title": "塔麻歌子合作 - feat.いちごっち",
+	"star": "s2n",
     "description": "#Tamagotchi #塔麻歌子",
     "main": [],
     "tags": [
@@ -25425,6 +25899,7 @@
     "src": "images/honami/312_tmk_06_003_2.webp",
     "character": "望月穂波",
     "title": "塔麻歌子合作 - feat.りんごっち",
+	"star": "s2n",
     "description": "#Tamagotchi #塔麻歌子",
     "main": [],
     "tags": [
@@ -25438,6 +25913,7 @@
     "src": "images/shizuku/312_tmk_07_008_2.webp",
     "character": "日野森雫",
     "title": "塔麻歌子合作 - feat.ふらわっち",
+	"star": "s2n",
     "description": "#Tamagotchi #塔麻歌子",
     "main": [],
     "tags": [
@@ -25451,6 +25927,7 @@
     "src": "images/an/312_tmk_08_010_2.webp",
     "character": "白石杏",
     "title": "塔麻歌子合作 - feat.メロディっち",
+	"star": "s2n",
     "description": "#Tamagotchi #塔麻歌子",
     "main": [],
     "tags": [
@@ -25464,6 +25941,7 @@
     "src": "images/rui/312_tmk_09_016_2.webp",
     "character": "神代類",
     "title": "塔麻歌子合作 - feat.ござるっち",
+	"star": "s2n",
     "description": "#Tamagotchi #塔麻歌子",
     "main": [],
     "tags": [
@@ -25477,6 +25955,7 @@
     "src": "images/mizuki/312_tmk_10_020_2.webp",
     "character": "暁山瑞希",
     "title": "塔麻歌子合作 - feat.ラブリっち",
+	"star": "s2n",
     "description": "#Tamagotchi #塔麻歌子",
     "main": [],
     "tags": [
@@ -25640,6 +26119,7 @@
     "src": "images/miku/314_180_06_021_2.webp",
     "character": "初音ミク",
     "title": "杏三混 - Our Golden Days",
+	"star": "s2n",
     "description": "#五週年",
     "main": [],
     "tags": [
@@ -25651,6 +26131,7 @@
     "src": "images/haruka/315_bd5_01_006_2.webp",
     "character": "桐谷遥",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -25767,6 +26248,7 @@
     "src": "images/saki/316_181_05_002_2.webp",
     "character": "天馬咲希",
     "title": "一歌六箱 - 君と繋ぐHeart Beat",
+	"star": "s2n",
     "description": "#遊行 #星星",
     "main": [],
     "tags": [
@@ -25876,6 +26358,7 @@
     "src": "images/haruka/317_182_05_006_2.webp",
     "character": "桐谷遥",
     "title": "雫六箱 - 交わる色はあの日のままに",
+	"star": "s2n",
     "description": "#童話",
     "main": [],
     "tags": [
@@ -25888,6 +26371,7 @@
     "src": "images/honami/318_bd5_01_003_2.webp",
     "character": "望月穂波",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -26004,6 +26488,7 @@
     "src": "images/mafuyu/319_183_05_018_2.webp",
     "character": "朝比奈まふゆ",
     "title": "絵名六箱 - Colors of Pure Sense",
+	"star": "s2n",
     "description": "#畫廊 #水彩",
     "main": [],
     "tags": [
@@ -26016,7 +26501,8 @@
   {
     "src": "images/meiko/320_bd5_01_025_2.webp",
     "character": "MEIKO",
-    "title": "Happy Birthday!!2025",
+    "title": "Happy Anniversary!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -26029,6 +26515,7 @@
     "src": "images/akito/321_bd5_01_011_2.webp",
     "character": "東雲彰人",
     "title": "Happy Birthday!!2025",
+	"star": "bd",
     "description": "#生日 #2025生日",
     "main": [],
     "tags": [
@@ -26145,6 +26632,7 @@
     "src": "images/rui/322_184_05_016_2.webp",
     "character": "神代類",
     "title": "寧々六箱 - 超克のプロタゴニスタ",
+	"star": "s2n",
     "description": "#征服 #超克",
     "main": [],
     "tags": [
@@ -26254,12 +26742,130 @@
     "src": "images/toya/323_185_05_012_2.webp",
     "character": "青柳冬弥",
     "title": "彰人六箱 - Overcome one's limits",
+	"star": "s2n",
     "description": "#Fighter #西裝",
     "main": [],
     "tags": [
       "彰人六箱",
       "Fighter",
       "西裝"
+    ]
+  },
+  {
+    "src": "images/saki/324_186_01_002_n.webp",
+    "character": "天馬咲希",
+    "title": "咲希六箱 - 仰ぐ夜空に、星は紛れて（特訓前）",
+	"star": "s4n",
+    "description": "#花結 #繪本",
+    "main": [],
+    "tags": [
+      "咲希六箱",
+      "花結",
+      "繪本"
+    ]
+  },
+  {
+    "src": "images/saki/324_186_01_002_t.webp",
+    "character": "天馬咲希",
+    "title": "咲希六箱 - 仰ぐ夜空に、星は紛れて（特訓後）",
+	"star": "s4t",
+    "description": "#花結 #繪本",
+    "main": [],
+    "tags": [
+      "咲希六箱",
+      "花結",
+      "繪本"
+    ]
+  },
+  {
+    "src": "images/ichika/324_186_02_001_n.webp",
+    "character": "星乃一歌",
+    "title": "咲希六箱 - 仰ぐ夜空に、星は紛れて（特訓前）",
+	"star": "s4n",
+    "description": "#花結 #繪本",
+    "main": [],
+    "tags": [
+      "咲希六箱",
+      "花結",
+      "繪本"
+    ]
+  },
+  {
+    "src": "images/ichika/324_186_02_001_t.webp",
+    "character": "星乃一歌",
+    "title": "咲希六箱 - 仰ぐ夜空に、星は紛れて（特訓後）",
+	"star": "s4t",
+    "description": "#花結 #繪本",
+    "main": [],
+    "tags": [
+      "咲希六箱",
+      "花結",
+      "繪本"
+    ]
+  },
+  {
+    "src": "images/honami/324_186_03_003_n.webp",
+    "character": "望月穂波",
+    "title": "咲希六箱 - 仰ぐ夜空に、星は紛れて（特訓前）",
+	"star": "s4n",
+    "description": "#花結 #繪本",
+    "main": [],
+    "tags": [
+      "咲希六箱",
+      "花結",
+      "繪本"
+    ]
+  },
+  {
+    "src": "images/honami/324_186_03_003_t.webp",
+    "character": "望月穂波",
+    "title": "咲希六箱 - 仰ぐ夜空に、星は紛れて（特訓後）",
+	"star": "s4t",
+    "description": "#花結 #繪本",
+    "main": [],
+    "tags": [
+      "咲希六箱",
+      "花結",
+      "繪本"
+    ]
+  },
+  {
+    "src": "images/luka/324_186_04_024_n.webp",
+    "character": "巡音ルカ",
+    "title": "咲希六箱 - 仰ぐ夜空に、星は紛れて（特訓前）",
+	"star": "s3n",
+    "description": "#花結 #繪本",
+    "main": [],
+    "tags": [
+      "咲希六箱",
+      "花結",
+      "繪本"
+    ]
+  },
+  {
+    "src": "images/luka/324_186_04_024_t.webp",
+    "character": "巡音ルカ",
+    "title": "咲希六箱 - 仰ぐ夜空に、星は紛れて（特訓後）",
+	"star": "s3t",
+    "description": "#花結 #繪本",
+    "main": [],
+    "tags": [
+      "咲希六箱",
+      "花結",
+      "繪本"
+    ]
+  },
+  {
+    "src": "images/shiho/324_186_05_004_2.webp",
+    "character": "日野森志歩",
+    "title": "咲希六箱 - 仰ぐ夜空に、星は紛れて",
+	"star": "s2n",
+    "description": "#花結 #繪本",
+    "main": [],
+    "tags": [
+      "咲希六箱",
+      "花結",
+      "繪本"
     ]
   }
 ]
